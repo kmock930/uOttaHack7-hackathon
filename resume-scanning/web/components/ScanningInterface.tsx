@@ -239,7 +239,6 @@ const ScanningInterface: FC = () => {
             <Box padding={"medium"}>
               <Grid
                 gridGap="medium"
-                alignItems="flex-start"
               >
                 <Box>
                   <FormGroup>
@@ -398,7 +397,7 @@ const ScanningInterface: FC = () => {
             )}
             <StyledCompareButton
               variant="primary"
-              disabled={!resumeUpload.file || !jobDescription.file || similarityScores.resumeLoading}
+              disabled={!resumeUpload.file || (!jobDescription.file && !jobDescription.textContent) || similarityScores.resumeLoading}
               onClick={() => handleCompareDocument("resume")}
               marginTop="medium"
               margin="none"
@@ -457,7 +456,7 @@ const ScanningInterface: FC = () => {
             )}
             <StyledCompareButton
               variant="primary"
-              disabled={!coverLetterUpload.file || !jobDescription.file || similarityScores.coverLetterLoading}
+              disabled={!coverLetterUpload.file || (!jobDescription.file && !jobDescription.textContent) || similarityScores.coverLetterLoading}
               onClick={() => handleCompareDocument("coverLetter")}
               marginTop="medium"
               margin="none"
