@@ -11,6 +11,9 @@ export const permissions: GadgetPermissions = {
   roles: {
     unauthenticated: {
       storageKey: "unauthenticated",
+      actions: {
+        listJobRoles: true,
+      },
     },
   },
 };
