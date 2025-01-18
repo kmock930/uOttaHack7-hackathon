@@ -257,7 +257,7 @@ const ScanningInterface: FC = () => {
                     label="Job Description"
                     value={jobDescription.textContent}
                     onChange={(e) => handleTextChange(e.target.value)}
-                    disabled={generating || similarityScores.resumeLoading || similarityScores.coverLetterLoading}
+                    disabled={generating || similarityScores.resumeLoading || similarityScores.coverLetterLoading || jobDescription.file !== null}
                     placeholder="Paste the job description here..."
                     rows={4}
                   />
