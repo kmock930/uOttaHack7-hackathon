@@ -8,14 +8,13 @@ export default function Index() {
   return (
     <Box aria-label="Resume scanning interface container">
       <Flex flexDirection="column" alignItems="center">
-        <Box maxWidth="1200px" width="100%" padding="medium">
+        <Box padding="medium">
           <H1 marginBottom="medium">Resume Scanning Assistant</H1>
           
           <Panel>
             <Box 
               padding={{ mobile: "medium", tablet: "large" }}
               marginHorizontal="auto"
-              maxWidth="900px"
             >
               <ScanningInterface />
             </Box>
