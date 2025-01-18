@@ -235,58 +235,67 @@ const ScanningInterface: FC = () => {
     
     <Box marginBottom="xxLarge" marginTop="large">
       <Panel header="Job Details">
-        <Form>
+        <Form fullWidth>
             <Box padding={"medium"}>
-              <Flex flexDirection="row" alignItems="flex-start" justifyContent="space-between">
-              <FormGroup>
-                <Select
-                options={roleOptions}
-                value={selectedRole}
-                required
-                onOptionChange={(value: string) => setSelectedRole(value)}
-                label="Select Role"
-                />
-              </FormGroup>
-              <FormGroup>
-                <Textarea
-                label="Job Description"
-                value={jobDescription.textContent}
-                onChange={(e) => handleTextChange(e.target.value)}
-                disabled={generating || similarityScores.resumeLoading || similarityScores.coverLetterLoading}
-                placeholder="Paste the job description here..."
-                rows={4}
-                />
-              </FormGroup>
-              <FormGroup>
+              <Grid
+                gridGap="medium"
+                alignItems="flex-start"
+              >
                 <Box>
-                <Text as="strong" marginBottom="xSmall">Upload Job Description</Text>
-                <input
-                  type="file"
-                  ref={jobDescriptionInputRef}
-                  accept={".pdf,.doc,.docx"}
-                  disabled={jobDescription.inputType === "text"}
-                  onChange={(e) => handleFileUpload(e, setJobDescription)}
-                />
-                {jobDescription.name && (
-                  <Flex alignItems="center" marginTop="xSmall">
-                  <Text>{jobDescription.name}</Text>
-                  <Button
-                    variant="secondary"
-                    marginLeft="small"
-                    onClick={() => clearFileUpload({
-                    setterFn: setJobDescription,
-                    setSimilarityScores,
-                    inputRef: jobDescriptionInputRef,
-                    type: "jobDescription"
-                    })}
-                    disabled={similarityScores.resumeLoading || similarityScores.coverLetterLoading || generating}
-                  >Delete</Button>
-                  </Flex>
-                )}
-                <Text color="secondary" marginTop="xSmall">Accepted formats: PDF, DOC, DOCX</Text>
+                  <FormGroup>
+                  <Select
+                  options={roleOptions}
+                  value={selectedRole}
+                  required
+                  onOptionChange={(value: string) => setSelectedRole(value)}
+                  label="Select Role"
+                  />
+                  </FormGroup>
                 </Box>
-              </FormGroup>
-              </Flex>
+                <Box>
+                  <FormGroup style={{ width: "100%" }}>
+                  <Textarea
+                    label="Job Description"
+                    value={jobDescription.textContent}
+                    onChange={(e) => handleTextChange(e.target.value)}
+                    disabled={generating || similarityScores.resumeLoading || similarityScores.coverLetterLoading}
+                    placeholder="Paste the job description here..."
+                    rows={4}
+                  />
+                  </FormGroup>
+                </Box>
+                <Box marginTop={"medium"}>
+                  <FormGroup>
+                  <Box>
+                  <Text as="strong" marginBottom="xSmall">Upload Job Description</Text>
+                  <input
+                    type="file"
+                    ref={jobDescriptionInputRef}
+                    accept={".pdf,.doc,.docx"}
+                    disabled={jobDescription.inputType === "text"}
+                    onChange={(e) => handleFileUpload(e, setJobDescription)}
+                  />
+                  {jobDescription.name && (
+                    <Flex alignItems="center" marginTop="xSmall">
+                    <Text>{jobDescription.name}</Text>
+                    <Button
+                      variant="secondary"
+                      marginLeft="small"
+                      onClick={() => clearFileUpload({
+                      setterFn: setJobDescription,
+                      setSimilarityScores,
+                      inputRef: jobDescriptionInputRef,
+                      type: "jobDescription"
+                      })}
+                      disabled={similarityScores.resumeLoading || similarityScores.coverLetterLoading || generating}
+                    >Delete</Button>
+                    </Flex>
+                  )}
+                  <Text color="secondary" marginTop="xSmall">Accepted formats: PDF, DOC, DOCX</Text>
+                  </Box>
+                </FormGroup>
+                </Box>
+              </Grid>
             </Box>
         </Form>
       </Panel>
