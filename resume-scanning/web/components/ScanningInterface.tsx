@@ -340,7 +340,7 @@ const ScanningInterface: FC = () => {
       </Panel>
 
       <Panel header="Document Comparison" marginTop="large">
-        <Grid gridColumns="1fr 1fr" gridGap="medium">
+        <Flex flexDirection="row" justifyContent="space-between">
           <Box padding="medium">
             <H3>Resume</H3>
             <Flex flexDirection="column" marginTop="small">
@@ -458,7 +458,7 @@ const ScanningInterface: FC = () => {
               ) : 'Compare Cover Letter'}
             </StyledCompareButton>
           </Box>
-        </Grid>
+        </Flex>
         {similarityScores.error && (
           <Text color="danger" marginTop="medium">
             {similarityScores.error}
