@@ -8,6 +8,7 @@
 ### Similarity of a Cover Letter
 ![image](https://github.com/user-attachments/assets/3037d1f8-f028-4453-b7c3-128f0a048881)
 ### Similarity of a Resume
+![image](https://github.com/user-attachments/assets/b32badac-9866-4f6e-846b-2ca3f8aa4fad)
 ![image](https://github.com/user-attachments/assets/928568ab-169c-4479-b582-0e489897f0fa)
 # Tech Stack
 1. Gadget platform
