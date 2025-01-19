@@ -1,0 +1,57 @@
+"""
+Job description
+To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa
+
+******************************************************************
+
+This is an external job posting which means that the interview and hiring processes are done outside of the CO-OP Navigator. We post it in the Navigator only to give it visibility. You must therefore apply directly on the employer's website.  If you receive and accept a job offer for this position, please let us know. We need the job number and job title that appears in the co-op portal.
+
+******************************************************************
+
+Location
+
+This is a hybrid position. You must be in the Ottawa, Canada office, at least three days a week.
+
+About the team
+
+The Intern Sales Data Analysts will gain knowledge of sales processes and hands-on experience in analyzing sales data. It will build a good knowledge foundation for those pursuing a career in data analytics, business intelligence, or sales strategy.
+
+This is a full-time, 4-month position, starting May 2025.
+
+What you will do
+
+Intern Sales Data Analysts will help senior analysts and sales Ops managers in
+
+data collection and cleaning, ensuring the data is accurate.
+performing basic data analysis and analyzing sales trends, patterns, and performance metrics
+creating visual reports and dashboards using PBI or excel
+performing data governance tasks.
+What we are looking for
+
+At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)
+Good knowledge of Power BI and Microsoft Excel
+Excellent analytical, quantitative and program-solving skills
+Strong attention to detail
+Good collaborative skills and a positive attitude
+Effective time management and organizational skills
+Familiarity with sales and marketing processes is a plus
+
+Work With Impact: Our platform directly helps companies power the world’s supply chains. We see the results of what we do out in the world every day—when we see store shelves stocked, when medications are available for our loved ones, and so much more.
+
+Work with Fortune 500 Brands: Companies across industries trust us to help them take control of their integrated business planning and digital supply chain. Some of our customers include Ford, Unilever, Yamaha, P&G, Lockheed-Martin, and more.
+
+Social Responsibility at Kinaxis: Our Diversity, Equity, and Inclusion Committee weighs in on hiring practices, talent assessment training materials, and mandatory training on unconscious bias and inclusion fundamentals. Sustainability is key to what we do and we’re committed to net-zero operations strategy for the long term. We are involved in our communities and support causes where we can make the most impact.
+
+People matter at Kinaxis and these are some of the perks and benefits we created for our team:
+
+Flexible vacation and Kinaxis Days (company-wide day off on the last Friday of every month)
+Flexible work options
+Physical and mental well-being programs
+Regularly scheduled virtual fitness classes
+Mentorship programs and training and career development
+Recognition programs and referral rewards
+Hackathons
+For more information, visit the Kinaxis web site at www.kinaxis.com or the company’s blog at http://blog.kinaxis.com.
+
+Kinaxis strongly encourages diverse candidates to apply to our welcoming community. We strive to make our website and application process accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at recruitmentprograms@kinaxis.com. This contact information is for accessibility requests only and cannot be used to inquire about the status of applications.
+"""
