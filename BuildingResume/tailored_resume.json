@@ -1,0 +1,64 @@
+{
+    "name": "Chongshen Yang",
+    "contact": {
+        "location": "Ottawa, ON",
+        "phone": "(+1)249-875-1733",
+        "email": "cyang017@uottawa.ca",
+        "linkedin": "https://linkedin.com/in/csy2001",
+        "github": "https://github.com/ycs2001"
+    },
+    "summary": [
+        "Proficient in programming languages including Java, C++, Python, and SQL, with advanced knowledge of JavaScript frameworks and CSS for web development.",
+        "Experienced in machine learning algorithms and techniques, with expertise in Kubernetes, Docker, TensorFlow, and PyTorch.",
+        "Strong background in cross-modality research and deep learning, with hands-on experience in data analysis and modelling.",
+        "Over 1 year of practical experience in front-end, back-end, and mobile application development.",
+        "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+    ],
+    "job_title": "Co-op Intern Sales Data Analyst",
+    "company": "Kinaxis",
+    "location": "Ottawa, Canada",
+    "duration": "May 2025 - September 2025",
+    "experience": [
+        {
+            "position": "Research Assistant",
+            "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+            "years": "June 2022 -- July 2024",
+            "location": "Hefei, China",
+            "details": [
+                "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis."
+            ]
+        },
+        {
+            "position": "Full-stack Developer Intern",
+            "company": "Guochuang Software Co.,Ltd.",
+            "years": "Feb. 2022 - Aug. 2022",
+            "location": "Hefei, China",
+            "details": [
+                "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes."
+            ]
+        },
+        {
+            "position": "Mobile Application Developer Intern",
+            "company": "Guochuang Software Co.,Ltd.",
+            "years": "April. 2023 - Aug. 2023",
+            "location": "Hefei, China",
+            "details": [
+                "Designed interactive UIs with Flutter’s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions."
+            ]
+        }
+    ],
+    "skills": [
+        "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+        "Containerization and Orchestration: Kubernetes, Docker",
+        "Infrastructure as Code (IaC): Terraform, CloudFormation",
+        "Programming and Scripting: Python, Bash, SQL",
+        "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+        "Monitoring and Optimization: Prometheus, Grafana",
+        "Power BI",
+        "Microsoft Excel"
+    ],
+    "qualifications": [
+        "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)"
+    ],
+    "application_instructions": "To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}

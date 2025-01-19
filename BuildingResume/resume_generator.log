@@ -1,0 +1,3547 @@
+2025-01-18 10:20:15,260 [INFO] Generating job details from job description...
+2025-01-18 10:20:19,668 [INFO] Job Details:
+{
+    "job_title": "Co-op Intern Sales Data Analyst",
+    "company": "Kinaxis",
+    "location": "Ottawa, Canada",
+    "duration": "May 2025 - September 2025",
+    "responsibilities": [
+        "Help senior analysts and sales Ops managers in data collection and cleaning, ensuring the data is accurate.",
+        "Perform basic data analysis and analyze sales trends, patterns, and performance metrics",
+        "Create visual reports and dashboards using PBI or excel",
+        "Perform data governance tasks"
+    ],
+    "required_skills": [
+        "Good knowledge of Power BI and Microsoft Excel",
+        "Excellent analytical, quantitative and program-solving skills",
+        "Strong attention to detail",
+        "Good collaborative skills and a positive attitude",
+        "Effective time management and organizational skills"
+    ],
+    "qualifications": [
+        "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)"
+    ],
+    "application_instructions": "To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}
+2025-01-18 10:20:19,692 [INFO] Generating tailored resume JSON...
+2025-01-18 10:20:35,118 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in programming languages including Java, C++, Python, and SQL, with advanced knowledge of JavaScript frameworks and CSS for web development.",
+    "Experienced in Kubernetes, Dockers, TensorFlow and PyTorch, with expertise in machine learning algorithms and techniques.",
+    "Strong background in cross-modality research and deep learning, with hands-on experience in data analysis and modelling.",
+    "Over 1 year of practical experience in front-end, back-end, and mobile application development.",
+    "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+  ],
+  "job_title": "Co-op Intern Sales Data Analyst",
+  "company": "Kinaxis",
+  "location": "Ottawa, Canada",
+  "duration": "May 2025 - September 2025",
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed interactive data visualizations for complex datasets using Vue.js and D3.js, creating user-friendly interfaces to support research insights and improve stakeholder usability.",
+        "Managed data storage and retrieval using MySQL, optimizing query performance for efficient data handling and data-driven decision-making.",
+        "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and facilitating data-driven research decisions.",
+        "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis.",
+        "Fine-tuned model parameters to boost computational efficiency and diagnostic performance, achieving significant improvements over traditional methods.",
+        "Collaborated in research, co-authored two conference papers, and presented findings at ICIG 2023 and ChineseCSCW23, with publications in the Lecture Notes in Computer Science series."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes.",
+        "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations.",
+        "User Authentication and Role Management: Developed role-based access for users and admins, enabling staff to manage bookings, availability, and visitor flow."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions.",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+        "Managed asynchronous requests and error handling with Dart\u2019s Future and Stream APIs, ensuring efficient front-end and back-end communication."
+      ]
+    }
+  ],
+  "skills": [
+    "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+    "Containerization and Orchestration: Kubernetes, Docker",
+    "Infrastructure as Code (IaC): Terraform, CloudFormation",
+    "Programming and Scripting: Python, Bash, SQL",
+    "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+    "Monitoring and Optimization: Prometheus, Grafana",
+    "Data Analysis: Power BI, Tableau, pandas, NumPy",
+    "Data Visualization: D3.js, Qlik Sense",
+    "Sales Operations: Salesforce, CRM"
+  ],
+  "qualifications": [
+    "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)"
+  ],
+  "application_instructions": "To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}
+```
+2025-01-18 10:20:35,118 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 10:20:35,118 [INFO] Successfully parsed JSON.
+2025-01-18 10:20:35,119 [INFO] ✅ Resume successfully saved to tailored_resume.json
+2025-01-18 10:20:35,133 [INFO] Successfully rendered LaTeX template.
+2025-01-18 10:20:35,134 [INFO] LaTeX file successfully saved to generated_resume.tex
+2025-01-18 10:20:35,134 [INFO] Running pdflatex...
+2025-01-18 10:20:36,722 [ERROR] LaTeX Compilation Failed. Error: Command '['C:\\Program Files\\MiKTeX\\miktex\\bin\\x64\\pdflatex.exe', '-interaction=nonstopmode', 'generated_resume.tex']' returned non-zero exit status 1.
+2025-01-18 10:20:36,722 [ERROR] Failed to generate PDF.
+2025-01-18 10:24:43,475 [INFO] Generating job details from job description...
+2025-01-18 10:24:47,768 [INFO] Job Details:
+{
+    "job_title": "Co-op Intern, Sales Data Analyst",
+    "company": "Kinaxis",
+    "location": "Ottawa, Canada (hybrid)",
+    "duration": "May 2025 - September 2025",
+    "responsibilities": [
+        "Assist in data collection and cleaning",
+        "Perform basic data analysis on sales trends, patterns, and performance metrics",
+        "Create visual reports and dashboards using PBI or Excel",
+        "Perform data governance tasks"
+    ],
+    "required_skills": [
+        "Power BI and Microsoft Excel proficiency",
+        "Analytical, quantitative, and problem-solving skills",
+        "Strong attention to detail",
+        "Collaborative and positive attitude",
+        "Effective time management and organizational skills"
+    ],
+    "qualifications": [
+        "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, or Market Research (or equivalent)"
+    ],
+    "application_instructions": "Apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}
+2025-01-18 10:24:47,770 [INFO] Generating tailored resume JSON...
+2025-01-18 10:25:13,700 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in programming languages including Java, C++, Python, and SQL, with advanced knowledge of JavaScript frameworks and CSS for web development.",
+    "Experienced in Kubernetes, Docker, TensorFlow, and PyTorch, with expertise in machine learning algorithms and techniques.",
+    "Strong background in cross-modality research and deep learning, with hands-on experience in data analysis and modelling.",
+    "Over 1 year of practical experience in front-end, back-end, and mobile application development.",
+    "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+  ],
+  "job_title": "Sales Data Analyst",
+  "company": "Kinaxis",
+  "location": "Ottawa, Canada",
+  "duration": "May 2025 - September 2025",
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "duration": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed interactive data visualizations for complex datasets using Vue.js and D3.js, creating user-friendly interfaces to support research insights and improve stakeholder usability.",
+        "Managed data storage and retrieval using MySQL, optimizing query performance for efficient data handling and data-driven decision-making.",
+        "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and facilitating data-driven research decisions.",
+        "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis.",
+        "Fine-tuned model parameters to boost computational efficiency and diagnostic performance, achieving significant improvements over traditional methods.",
+        "Collaborated in research, co-authored two conference papers, and presented findings at ICIG 2023 and ChineseCSCW23, with publications in the Lecture Notes in Computer Science series."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "duration": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes.",
+        "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations.",
+        "User Authentication and Role Management: Developed role-based access for users and admins, enabling staff to manage bookings, availability, and visitor flow."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "duration": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions.",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+        "Managed asynchronous requests and error handling with Dart\u2019s Future and Stream APIs, ensuring efficient front-end and back-end communication."
+      ]
+    }
+  ],
+  "skills": [
+    "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+    "Containerization and Orchestration: Kubernetes, Docker",
+    "Infrastructure as Code (IaC): Terraform, CloudFormation",
+    "Programming and Scripting: Python, Bash, SQL",
+    "Power BI",
+    "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+    "Monitoring and Optimization: Prometheus, Grafana",
+    "Analytical, quantitative, and problem-solving skills",
+    "Strong attention to detail"
+  ],
+  "qualifications": [
+    "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, or Market Research (or equivalent)"
+  ],
+  "application_instructions": "Apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa",
+  "education": [
+    {
+      "institution": "University of Ottawa x Carleton University",
+      "degree": "Master of Computer Science (COOP)",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "institution": "Hefei University Of Technology",
+      "degree": "Bachelor of Software Engineering",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications.",
+        "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness.",
+        "Co-authored research findings and presented results at ChineseCSCW 2023, contributing to Springer\u2019s Communications in Computer and Information Science series."
+      ]
+    },
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+        "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+}
+```
+2025-01-18 10:25:13,706 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 10:25:13,707 [INFO] Successfully parsed JSON.
+2025-01-18 10:25:13,710 [INFO] ✅ Resume successfully saved to tailored_resume.json
+2025-01-18 10:25:13,732 [INFO] Successfully rendered LaTeX template.
+2025-01-18 10:25:13,732 [INFO] LaTeX file successfully saved to generated_resume.tex
+2025-01-18 10:25:13,732 [INFO] Running pdflatex...
+2025-01-18 10:25:14,213 [ERROR] LaTeX Compilation Failed. Error: Command '['C:\\Program Files\\MiKTeX\\miktex\\bin\\x64\\pdflatex.exe', '-interaction=nonstopmode', 'generated_resume.tex']' returned non-zero exit status 1.
+2025-01-18 10:25:14,213 [ERROR] Failed to generate PDF.
+2025-01-18 10:29:55,323 [INFO] Generating job details from job description...
+2025-01-18 10:29:59,843 [INFO] Job Details:
+{
+    "job_title": "Co-op Intern - Sales Data Analyst",
+    "company": "Kinaxis",
+    "location": "Ottawa, Canada",
+    "duration": "May 2025 - September 2025",
+    "responsibilities": [
+        "Assist senior analysts and sales Ops managers in data collection and cleaning",
+        "Perform basic data analysis and analyze sales trends, patterns, and performance metrics",
+        "Create visual reports and dashboards using PBI or Excel",
+        "Perform data governance tasks"
+    ],
+    "required_skills": [
+        "Good knowledge of Power BI and Microsoft Excel",
+        "Excellent analytical, quantitative and program-solving skills",
+        "Strong attention to detail",
+        "Good collaborative skills and a positive attitude",
+        "Effective time management and organizational skills",
+        "Familiarity with sales and marketing processes"
+    ],
+    "qualifications": [
+        "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)"
+    ],
+    "application_instructions": "To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}
+2025-01-18 10:29:59,843 [INFO] Generating tailored resume JSON...
+2025-01-18 10:30:12,164 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in data analysis and modeling techniques, with expertise in Power BI and Microsoft Excel.",
+    "Experienced in data collection, cleaning, and analysis, with a strong attention to detail.",
+    "Skilled in visualizing data through interactive dashboards and reports.",
+    "Over 1 year of hands-on experience in data governance and data management practices.",
+    "Familiar with sales and marketing processes, and eager to apply analytical skills in this domain."
+  ],
+  "job_title": "Co-op Intern - Sales Data Analyst",
+  "company": "Kinaxis",
+  "location": "Ottawa, Canada",
+  "duration": "May 2025 - September 2025",
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed interactive data visualizations for complex datasets using Vue.js and D3.js, creating user-friendly interfaces to support research insights and improve stakeholder usability.",
+        "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and facilitating data-driven research decisions.",
+        "Managed data storage and retrieval using MySQL, optimizing query performance for efficient data handling and data-driven decision-making."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes.",
+        "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+        "Managed asynchronous requests and error handling with Dart\u2019s Future and Stream APIs, ensuring efficient front-end and back-end communication."
+      ]
+    }
+  ],
+  "skills": [
+    "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+    "Containerization and Orchestration: Kubernetes, Docker",
+    "Infrastructure as Code (IaC): Terraform, CloudFormation",
+    "Programming and Scripting: Python, Bash, SQL",
+    "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+    "Monitoring and Optimization: Prometheus, Grafana"
+  ],
+  "qualifications": [
+    "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)"
+  ],
+  "application_instructions": "To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}
+```
+2025-01-18 10:30:12,164 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 10:30:12,165 [INFO] Successfully parsed JSON.
+2025-01-18 10:30:12,166 [INFO] ✅ Resume successfully saved to tailored_resume.json
+2025-01-18 10:30:12,226 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:30:12,228 [ERROR] Error rendering LaTeX template: 'latex_escape' is undefined
+2025-01-18 10:30:12,228 [ERROR] Failed to render LaTeX: 'latex_escape' is undefined
+2025-01-18 10:34:36,895 [ERROR] Google Gemini API key not found. Please set the 'GOOGLE_GEMINI_API_KEY' environment variable.
+2025-01-18 10:35:15,019 [INFO] Generating job details from job description...
+2025-01-18 10:35:19,475 [INFO] Job Details:
+{
+    "job_title": "CO-OP Intern Sales Data Analyst",
+    "company": "Kinaxis",
+    "location": "Ottawa, Canada",
+    "duration": "May 2025 - September 2025",
+    "responsibilities": [
+        "Assist senior analysts and sales Ops managers in data collection and cleaning",
+        "Perform basic data analysis and analyze sales trends, patterns, and performance metrics",
+        "Create visual reports and dashboards using PBI or excel",
+        "Perform data governance tasks"
+    ],
+    "required_skills": [
+        "Knowledge of Power BI and Microsoft Excel",
+        "Excellent analytical, quantitative and program-solving skills",
+        "Strong attention to detail",
+        "Good collaborative skills and a positive attitude",
+        "Effective time management and organizational skills",
+        "Familiarity with sales and marketing processes"
+    ],
+    "qualifications": [
+        "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)"
+    ],
+    "application_instructions": "Please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}
+2025-01-18 10:35:19,476 [INFO] Generating tailored resume JSON...
+2025-01-18 10:35:43,109 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in programming languages including Java, C++, Python, and SQL, with advanced knowledge of JavaScript frameworks and CSS for web development.",
+    "Experienced in Kubernetes, Dockers, TensorFlow and PyTorch, with expertise in machine learning algorithms and techniques.",
+    "Experience in data analysis and modeling, including data visualization and dashboard design using Power BI.",
+    "Over 1 year of practical experience in front-end, back-end, and mobile application development.",
+    "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+  ],
+  "job_title": "CO-OP Intern Sales Data Analyst",
+  "company": "Kinaxis",
+  "location": "Ottawa, Canada",
+  "duration": "May 2025 - September 2025",
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed interactive data visualizations using Vue.js and D3.js, creating user-friendly interfaces to support research insights.",
+        "Managed data storage and retrieval using MySQL, optimizing query performance for efficient data handling and data-driven decision-making.",
+        "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and facilitating data-driven research decisions.",
+        "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions.",
+        "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations.",
+        "User Authentication and Role Management: Developed role-based access for users and admins, enabling staff to manage bookings, availability, and visitor flow."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions.",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+        "Managed asynchronous requests and error handling with Dart\u2019s Future and Stream APIs."
+      ]
+    }
+  ],
+  "skills": [
+    "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+    "Containerization and Orchestration: Kubernetes, Docker",
+    "Infrastructure as Code (IaC): Terraform, CloudFormation",
+    "Programming and Scripting: Python, Bash, SQL",
+    "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+    "Monitoring and Optimization: Prometheus, Grafana",
+    "Data Analysis Tools: Power BI, Excel",
+    "Machine Learning: TensorFlow, PyTorch",
+    "Data Visualization: Vue.js, D3.js"
+  ],
+  "qualifications": [
+    "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)",
+    "Knowledge of Power BI and Microsoft Excel",
+    "Experience in data analysis and data modeling"
+  ],
+  "application_instructions": "Please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa",
+  "education": [
+    {
+      "institution": "University of Ottawa x Carleton University",
+      "degree": "Master of Computer Science (COOP)",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "institution": "Hefei University Of Technology",
+      "degree": "Bachelor of Software Engineering",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity."
+      ]
+    },
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+}
+```
+2025-01-18 10:35:43,116 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 10:35:43,116 [INFO] Successfully parsed JSON.
+2025-01-18 10:35:43,119 [INFO] ✅ Resume successfully saved to tailored_resume.json
+2025-01-18 10:35:43,140 [WARNING] Missing required fields: phone, email, linkedin, github
+2025-01-18 10:35:43,171 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,172 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,172 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,172 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,173 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,173 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,173 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,173 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,173 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,174 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,175 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,175 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,175 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,175 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,175 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,176 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,176 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,176 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,176 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,176 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,176 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,176 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,178 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,178 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,178 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,178 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,179 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,179 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,179 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,180 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,180 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,180 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,181 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,181 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,181 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,181 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,181 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,182 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,182 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,183 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,183 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,184 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,184 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,184 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,184 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,184 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,184 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,185 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,185 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,185 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,185 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,185 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,186 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,186 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,187 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,187 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,187 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,187 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,187 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,188 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,188 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,189 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,189 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,189 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,189 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,190 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,190 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:35:43,190 [INFO] Successfully rendered LaTeX template.
+2025-01-18 10:35:43,190 [INFO] LaTeX file successfully saved to generated_resume.tex
+2025-01-18 10:35:43,190 [INFO] Running pdflatex...
+2025-01-18 10:35:43,395 [ERROR] LaTeX Compilation Failed. Error: 
+2025-01-18 10:35:43,395 [ERROR] Failed to generate PDF.
+2025-01-18 10:40:18,561 [INFO] Rendering LaTeX resume...
+2025-01-18 10:40:18,566 [INFO] Successfully rendered LaTeX template.
+2025-01-18 10:40:18,567 [INFO] LaTeX file saved as generated_resume.tex
+2025-01-18 10:40:18,567 [INFO] 
+Generated LaTeX Content:
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generated PDF is machine readable / ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+
+\newcommand{\resumeItem}[1]{ \item\small{#1 \vspace{-2pt}} }
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=*,label={}]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\setlength{\footskip}{12pt} % Adjusted footskip
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \textbf{\scshape Chongshen Yang }} \\ \vspace{4pt}
+
+    
+        Ottawa, ON
+         $|$ (+1)249-875-1733 
+         $|$ \href{mailto:cyang017@uottawa.ca}{\texttt{ cyang017@uottawa.ca }} 
+        \\ \vspace{4pt}
+    
+
+    
+        
+            \href{https://https://linkedin.com/in/csy2001}{\texttt{LinkedIn: https://linkedin.com/in/csy2001}}
+        
+        
+            $|$ \href{https://https://github.com/ycs2001}{\texttt{GitHub: https://github.com/ycs2001}}
+        
+    
+\end{center}
+
+
+%-----------SUMMARY-----------
+\section{Summary}
+\resumeItemListStart
+
+    \resumeItem{ Proficient in Java, C++, Python, SQL, JavaScript frameworks, and CSS. }
+
+    \resumeItem{ Experience in Kubernetes, Docker, TensorFlow, and PyTorch. }
+
+    \resumeItem{ Background in cross-modality research, deep learning, and data analysis. }
+
+    \resumeItem{ Over 1 year of experience in full-stack development. }
+
+    \resumeItem{ Co-authored and presented research at ICIG 2023 and ChineseCSCW23. }
+
+\resumeItemListEnd
+
+
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\resumeItemListStart
+
+    \resumeItem{ Cloud: GCP, AWS, Azure }
+
+    \resumeItem{ Containerization: Kubernetes, Docker }
+
+    \resumeItem{ Infrastructure: Terraform, CloudFormation }
+
+    \resumeItem{ Programming: Python, Bash, SQL }
+
+    \resumeItem{ DevOps: Jenkins, Git, CI/CD }
+
+    \resumeItem{ Monitoring: Prometheus, Grafana }
+
+\resumeItemListEnd
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+
+2025-01-18 10:40:18,567 [INFO] Running pdflatex...
+2025-01-18 10:40:19,620 [INFO] ✅ PDF successfully generated: generated_resume.pdf
+2025-01-18 10:41:05,684 [INFO] Rendering LaTeX resume...
+2025-01-18 10:41:05,690 [INFO] Successfully rendered LaTeX template.
+2025-01-18 10:41:05,690 [INFO] LaTeX file saved as generated_resume.tex
+2025-01-18 10:41:05,690 [INFO] 
+Generated LaTeX Content:
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generated PDF is machine readable / ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+
+\newcommand{\resumeItem}[1]{ \item\small{#1 \vspace{-2pt}} }
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=*,label={}]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\setlength{\footskip}{12pt} % Adjusted footskip
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \textbf{\scshape Chongshen Yang }} \\ \vspace{4pt}
+
+    
+        Ottawa, ON
+         $|$ (+1)249-875-1733 
+         $|$ \href{mailto:cyang017@uottawa.ca}{\texttt{ cyang017@uottawa.ca }} 
+        \\ \vspace{4pt}
+    
+
+    
+        
+            \href{https://https://linkedin.com/in/csy2001}{\texttt{LinkedIn: https://linkedin.com/in/csy2001}}
+        
+        
+            $|$ \href{https://https://github.com/ycs2001}{\texttt{GitHub: https://github.com/ycs2001}}
+        
+    
+\end{center}
+
+
+%-----------SUMMARY-----------
+\section{Summary}
+\resumeItemListStart
+
+    \resumeItem{ Proficient in Java, C++, Python, SQL, JavaScript frameworks, and CSS. }
+
+    \resumeItem{ Experience in Kubernetes, Docker, TensorFlow, and PyTorch. }
+
+    \resumeItem{ Background in cross-modality research, deep learning, and data analysis. }
+
+    \resumeItem{ Over 1 year of experience in full-stack development. }
+
+    \resumeItem{ Co-authored and presented research at ICIG 2023 and ChineseCSCW23. }
+
+\resumeItemListEnd
+
+
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\resumeItemListStart
+
+    \resumeItem{ Cloud: GCP, AWS, Azure }
+
+    \resumeItem{ Containerization: Kubernetes, Docker }
+
+    \resumeItem{ Infrastructure: Terraform, CloudFormation }
+
+    \resumeItem{ Programming: Python, Bash, SQL }
+
+    \resumeItem{ DevOps: Jenkins, Git, CI/CD }
+
+    \resumeItem{ Monitoring: Prometheus, Grafana }
+
+\resumeItemListEnd
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+
+2025-01-18 10:41:05,690 [INFO] Running pdflatex...
+2025-01-18 10:41:06,514 [INFO] ✅ PDF successfully generated: generated_resume.pdf
+2025-01-18 10:45:53,083 [INFO] Generating job details from job description...
+2025-01-18 10:45:53,083 [ERROR] Error while generating JSON from AI model: GenerativeModel.generate_content() got an unexpected keyword argument 'timeout'
+2025-01-18 10:45:53,083 [ERROR] An error occurred: GenerativeModel.generate_content() got an unexpected keyword argument 'timeout'
+2025-01-18 10:47:38,051 [INFO] Generating job details from job description...
+2025-01-18 10:47:38,051 [ERROR] An error occurred: name 'context' is not defined
+2025-01-18 10:49:11,039 [INFO] Generating job details from job description...
+2025-01-18 10:49:11,195 [ERROR] Error while generating JSON from AI model: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-01-18 10:49:11,195 [ERROR] An error occurred: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-01-18 10:49:33,143 [INFO] Rendering LaTeX resume...
+2025-01-18 10:49:33,149 [INFO] Successfully rendered LaTeX template.
+2025-01-18 10:49:33,150 [INFO] LaTeX file saved as generated_resume.tex
+2025-01-18 10:49:33,150 [INFO] 
+Generated LaTeX Content:
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generated PDF is machine readable / ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+
+\newcommand{\resumeItem}[1]{ \item\small{#1 \vspace{-2pt}} }
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=*,label={}]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\setlength{\footskip}{12pt} % Adjusted footskip
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \textbf{\scshape Chongshen Yang }} \\ \vspace{4pt}
+
+    
+        Ottawa, ON
+         $|$ (+1)249-875-1733 
+         $|$ \href{mailto:cyang017@uottawa.ca}{\texttt{ cyang017@uottawa.ca }} 
+        \\ \vspace{4pt}
+    
+
+    
+        
+            \href{https://https://linkedin.com/in/csy2001}{\texttt{LinkedIn: https://linkedin.com/in/csy2001}}
+        
+        
+            $|$ \href{https://https://github.com/ycs2001}{\texttt{GitHub: https://github.com/ycs2001}}
+        
+    
+\end{center}
+
+
+%-----------SUMMARY-----------
+\section{Summary}
+\resumeItemListStart
+
+    \resumeItem{ Proficient in Java, C++, Python, SQL, JavaScript frameworks, and CSS. }
+
+    \resumeItem{ Experience in Kubernetes, Docker, TensorFlow, and PyTorch. }
+
+    \resumeItem{ Background in cross-modality research, deep learning, and data analysis. }
+
+    \resumeItem{ Over 1 year of experience in full-stack development. }
+
+    \resumeItem{ Co-authored and presented research at ICIG 2023 and ChineseCSCW23. }
+
+\resumeItemListEnd
+
+
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\resumeItemListStart
+
+    \resumeItem{ Cloud: GCP, AWS, Azure }
+
+    \resumeItem{ Containerization: Kubernetes, Docker }
+
+    \resumeItem{ Infrastructure: Terraform, CloudFormation }
+
+    \resumeItem{ Programming: Python, Bash, SQL }
+
+    \resumeItem{ DevOps: Jenkins, Git, CI/CD }
+
+    \resumeItem{ Monitoring: Prometheus, Grafana }
+
+\resumeItemListEnd
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+
+2025-01-18 10:49:33,150 [INFO] Running pdflatex...
+2025-01-18 10:49:33,979 [INFO] ✅ PDF successfully generated: generated_resume.pdf
+2025-01-18 10:49:54,683 [INFO] Generating job details from job description...
+2025-01-18 10:49:59,106 [INFO] Job Details:
+{
+    "job_title": "CO-OP Intern Sales Data Analyst",
+    "company": "Kinaxis",
+    "location": "Ottawa, Canada",
+    "duration": "May 2025 - September 2025",
+    "responsibilities": [
+        "data collection and cleaning",
+        "performing basic data analysis and analyzing sales trends, patterns, and performance metrics",
+        "creating visual reports and dashboards using PBI or excel",
+        "performing data governance tasks"
+    ],
+    "required_skills": [
+        "Power BI",
+        "Microsoft Excel",
+        "analytical skills",
+        "quantitative skills",
+        "program-solving skills",
+        "attention to detail",
+        "collaborative skills",
+        "time management skills",
+        "organizational skills",
+        "familiarity with sales and marketing processes"
+    ],
+    "qualifications": [
+        "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)"
+    ],
+    "application_instructions": "To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}
+2025-01-18 10:49:59,106 [INFO] Generating tailored resume JSON...
+2025-01-18 10:50:24,122 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in programming languages including Java, C++, Python, and SQL, with a strong foundation in JavaScript frameworks and CSS for web development.",
+    "Experienced in Kubernetes, Docker, TensorFlow, and PyTorch, with expertise in machine learning algorithms and techniques.",
+    "Adept in data analysis and modelling, with a strong background in cross-modality research and deep learning.",
+    "Strong analytical and presentation skills from co-authoring and presenting academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science.",
+    "Over 1 year of hands-on experience in front-end, back-end, and mobile application development."
+  ],
+  "job_title": "CO-OP Intern Sales Data Analyst",
+  "company": "Kinaxis",
+  "location": "Ottawa, Canada",
+  "duration": "May 2025 - September 2025",
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed interactive data visualizations using Vue.js and D3.js, optimizing user experience for data-driven insights.",
+        "Managed data storage and retrieval using MySQL, enhancing query performance for efficient data handling.",
+        "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and supporting data-driven research decisions.",
+        "Trained and validated a Deep Discriminative Hashing model using TensorFlow for cross-modal medical image and text data, significantly improving retrieval accuracy and efficiency.",
+        "Co-authored and presented research findings at ICIG 2023 and ChineseCSCW23, and published in Lecture Notes in Computer Science, contributing to the field of medical data analysis."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Developed RESTful APIs for backend management of appointments, user authentication, and data flow, optimizing database interactions for high booking volumes.",
+        "Built a responsive, user-friendly UI using Vue.js for viewing time slots, booking appointments, and receiving confirmations.",
+        "Implemented role-based access control for users and admins, enabling efficient booking and availability management."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter's widget library, utilizing CustomPainter for complex layouts and AnimationController for smooth transitions.",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+        "Managed asynchronous requests and error handling with Dart's Future and Stream APIs, ensuring efficient front-end and back-end communication."
+      ]
+    }
+  ],
+  "skills": [
+    "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+    "Containerization and Orchestration: Kubernetes, Docker",
+    "Infrastructure as Code (IaC): Terraform, CloudFormation",
+    "Programming and Scripting: Python, Bash, SQL",
+    "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+    "Monitoring and Optimization: Prometheus, Grafana",
+    "Power BI",
+    "Microsoft Excel",
+    "Data Governance"
+  ],
+  "qualifications": [
+    "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)"
+  ],
+  "application_instructions": "To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa",
+  "education": [
+    {
+      "institution": "University of Ottawa x Carleton University",
+      "degree": "Master of Computer Science (COOP)",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "institution": "Hefei University Of Technology",
+      "degree": "Bachelor of Software Engineering",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications.",
+        "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness.",
+        "Co-authored research findings and presented results at ChineseCSCW 2023, contributing to Springer's Communications in Computer and Information Science series."
+      ]
+    },
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+        "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+}
+```
+2025-01-18 10:50:24,126 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 10:50:24,126 [INFO] Successfully parsed JSON.
+2025-01-18 10:50:24,130 [INFO] ✅ Resume successfully saved to tailored_resume.json
+2025-01-18 10:50:24,200 [WARNING] Missing required fields: phone, email, linkedin, github
+2025-01-18 10:50:24,235 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,238 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,239 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,239 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,240 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,240 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,240 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,241 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,241 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,241 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,241 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,242 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,242 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,242 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,242 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,242 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,243 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,243 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,243 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,243 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,243 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,244 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,244 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,244 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,244 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,244 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,246 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,246 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,246 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,246 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,246 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,246 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,247 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,247 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,248 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,248 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,248 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,249 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,249 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,249 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,250 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,250 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,250 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,250 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,251 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,251 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,251 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,251 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,253 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,253 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,253 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,253 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,254 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,254 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,254 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,255 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,255 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,256 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,256 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,256 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,256 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,257 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,257 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,257 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,257 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,257 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,258 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,258 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,258 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,259 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,259 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,259 [WARNING] LatexNodes2Text(): Unknown flag(s) encountered: ['latex_mode']
+2025-01-18 10:50:24,259 [INFO] Successfully rendered LaTeX template.
+2025-01-18 10:50:24,260 [INFO] LaTeX file successfully saved to generated_resume.tex
+2025-01-18 10:50:24,260 [INFO] Running pdflatex...
+2025-01-18 10:50:24,482 [ERROR] LaTeX Compilation Failed. Error: 
+2025-01-18 10:50:24,482 [ERROR] Failed to generate PDF.
+2025-01-18 10:53:06,426 [INFO] Generating job details from job description...
+2025-01-18 10:53:10,907 [INFO] Job Details:
+{
+    "job_title": "Co-op Intern Sales Data Analyst",
+    "company": "Kinaxis",
+    "location": "Ottawa, Canada",
+    "duration": "May 2025 - September 2025",
+    "responsibilities": [
+        "Assist senior analysts and sales Ops managers in data collection and cleaning",
+        "Perform basic data analysis and analyze sales trends, patterns, and performance metrics",
+        "Create visual reports and dashboards using PBI or excel",
+        "Perform data governance tasks"
+    ],
+    "required_skills": [
+        "Power BI",
+        "Microsoft Excel",
+        "Analytical skills",
+        "Quantitative skills",
+        "Program-solving skills",
+        "Attention to detail",
+        "Collaborative skills",
+        "Time management skills",
+        "Organizational skills",
+        "Familiarity with sales and marketing processes"
+    ],
+    "qualifications": [
+        "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, or Market Research (or equivalent)"
+    ],
+    "application_instructions": "Please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}
+2025-01-18 10:53:10,908 [INFO] Generating tailored resume JSON...
+2025-01-18 10:53:28,416 [INFO] AI Model Response:
+```javascript
+{
+"name": "Chongshen Yang",
+"contact": {
+"location": "Ottawa, ON",
+"phone": "(+1)249-875-1733",
+"email": "cyang017@uottawa.ca",
+"linkedin": "https://linkedin.com/in/csy2001",
+"github": "https://github.com/ycs2001"
+},
+"summary": [
+"Proficient in programming languages including Java, C++, Python, and SQL, with advanced knowledge of JavaScript frameworks and CSS for web development.",
+"Experienced in Kubernetes, Docker, TensorFlow and PyTorch, with expertise in machine learning algorithms and techniques.",
+"Strong background in cross-modality research and deep learning, with hands-on experience in data analysis and modeling.",
+"Over 1 year of practical experience in front-end, back-end, and mobile application development.",
+"Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+],
+"job_title": "Co-op Intern Sales Data Analyst",
+"company": "Kinaxis",
+"location": "Ottawa, Canada",
+"duration": "May 2025 - September 2025",
+"experience": [
+{
+"position": "Research Assistant",
+"company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+"years": "June 2022 -- July 2024",
+"location": "Hefei, China",
+"details": [
+"Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis.",
+"Fine-tuned model parameters to boost computational efficiency and diagnostic performance, achieving significant improvements over traditional methods.",
+"Collaborated in research, co-authored two conference papers, and presented findings at ICIG 2023 and ChineseCSCW23, with publications in the Lecture Notes in Computer Science series."
+]
+},
+{
+"position": "Full-stack Developer Intern",
+"company": "Guochuang Software Co.,Ltd.",
+"years": "Feb. 2022 - Aug. 2022",
+"location": "Hefei, China",
+"details": [
+"Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes."
+]
+}
+],
+"skills": [
+"Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+"Containerization and Orchestration: Kubernetes, Docker",
+"Infrastructure as Code (IaC): Terraform, CloudFormation",
+"Programming and Scripting: Python, Bash, SQL",
+"DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+"Monitoring and Optimization: Prometheus, Grafana",
+"Power BI"
+],
+"qualifications": [
+"At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, or Market Research (or equivalent)"
+],
+"application_instructions": "Please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa",
+"education": [
+{
+"institution": "University of Ottawa x Carleton University",
+"degree": "Master of Computer Science (COOP)",
+"years": "Aug. 2024 -- Present",
+"location": "Ottawa, ON",
+"details": [
+"CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+]
+},
+{
+"institution": "Hefei University Of Technology",
+"degree": "Bachelor of Software Engineering",
+"years": "Aug. 2020 -- July. 2024",
+"location": "Hefei, China",
+"details": [
+"Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses"
+]
+}
+],
+"projects": [
+{
+"title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+"tech_stack": "Python, Tensorflow, Latex, Git",
+"years": "May. 2022 -- Feb. 2023",
+"details": [
+"Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+"Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+"Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+]
+}
+],
+"certifications": [
+{
+"name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+"link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+},
+{
+"name": "Machine Learning (Stanford University)",
+"link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+}
+],
+"publications": [
+{
+"title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+"link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+}
+]
+}
+```
+2025-01-18 10:53:28,427 [INFO] Extracted JSON using general braces.
+2025-01-18 10:53:28,427 [INFO] Successfully parsed JSON.
+2025-01-18 10:53:28,429 [INFO] ✅ Resume successfully saved to tailored_resume.json
+2025-01-18 10:53:28,438 [WARNING] Missing required fields: phone, email, linkedin, github
+2025-01-18 10:53:28,556 [INFO] Successfully rendered LaTeX template.
+2025-01-18 10:53:28,558 [INFO] LaTeX file successfully saved to generated_resume.tex
+2025-01-18 10:53:28,558 [INFO] Running pdflatex...
+2025-01-18 10:53:28,845 [ERROR] LaTeX Compilation Failed. Error: 
+2025-01-18 10:53:28,847 [ERROR] Failed to generate PDF.
+2025-01-18 10:54:50,089 [INFO] Generating job details from job description...
+2025-01-18 10:54:54,257 [INFO] Job Details:
+{
+    "job_title": "Co-op Intern Sales Data Analyst",
+    "company": "Kinaxis",
+    "location": "Ottawa, Canada",
+    "duration": "May 2025 - September 2025",
+    "responsibilities": [
+        "Assist senior analysts and sales Ops managers in data collection and cleaning, ensuring data accuracy.",
+        "Perform basic data analysis and analyze sales trends, patterns, and performance metrics.",
+        "Create visual reports and dashboards using PBI or Excel.",
+        "Perform data governance tasks."
+    ],
+    "required_skills": [
+        "Good knowledge of Power BI and Microsoft Excel.",
+        "Excellent analytical, quantitative and problem-solving skills",
+        "Strong attention to detail"
+    ],
+    "qualifications": [
+        "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)"
+    ],
+    "application_instructions": "To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}
+2025-01-18 10:54:54,257 [INFO] Generating tailored resume JSON...
+2025-01-18 10:55:05,990 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in programming languages including Java, C++, Python, and SQL, with advanced knowledge of JavaScript frameworks and CSS for web development.",
+    "Experienced in machine learning algorithms and techniques, with expertise in Kubernetes, Docker, TensorFlow, and PyTorch.",
+    "Strong background in cross-modality research and deep learning, with hands-on experience in data analysis and modelling.",
+    "Over 1 year of practical experience in front-end, back-end, and mobile application development.",
+    "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+  ],
+  "job_title": "Co-op Intern Sales Data Analyst",
+  "company": "Kinaxis",
+  "location": "Ottawa, Canada",
+  "duration": "May 2025 - September 2025",
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions."
+      ]
+    }
+  ],
+  "skills": [
+    "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+    "Containerization and Orchestration: Kubernetes, Docker",
+    "Infrastructure as Code (IaC): Terraform, CloudFormation",
+    "Programming and Scripting: Python, Bash, SQL",
+    "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+    "Monitoring and Optimization: Prometheus, Grafana",
+    "Power BI",
+    "Microsoft Excel"
+  ],
+  "qualifications": [
+    "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)"
+  ],
+  "application_instructions": "To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}
+```
+2025-01-18 10:55:05,990 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 10:55:05,990 [INFO] Successfully parsed JSON.
+2025-01-18 10:55:05,991 [INFO] ✅ Resume successfully saved to tailored_resume.json
+2025-01-18 10:55:06,000 [WARNING] Missing required fields: phone, email, linkedin, github, education, projects, certifications, publications
+2025-01-18 10:55:06,045 [INFO] Successfully rendered LaTeX template.
+2025-01-18 10:55:06,045 [INFO] LaTeX file successfully saved to generated_resume.tex
+2025-01-18 10:55:06,045 [INFO] Running pdflatex...
+2025-01-18 10:55:06,281 [ERROR] LaTeX Compilation Failed. Error: 
+2025-01-18 10:55:06,282 [ERROR] Failed to generate PDF.
+2025-01-18 10:56:06,925 [INFO] Generating job details from job description...
+2025-01-18 10:56:11,454 [INFO] Job Details:
+{
+    "job_title": "Co-op Intern, Sales Data Analyst",
+    "company": "Kinaxis",
+    "location": "Ottawa, Canada",
+    "duration": "May 2025 - September 2025",
+    "responsibilities": [
+        "Assisting senior analysts and sales Ops managers in data collection and cleaning",
+        "Performing basic data analysis and analyzing sales trends, patterns, and performance metrics",
+        "Creating visual reports and dashboards using PBI or Excel",
+        "Performing data governance tasks"
+    ],
+    "required_skills": [
+        "Good knowledge of Power BI and Microsoft Excel",
+        "Excellent analytical, quantitative and problem-solving skills",
+        "Strong attention to detail",
+        "Good collaborative skills and a positive attitude",
+        "Effective time management and organizational skills"
+    ],
+    "qualifications": [
+        "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)",
+        "Familiarity with sales and marketing processes is a plus"
+    ],
+    "application_instructions": "To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa"
+}
+2025-01-18 10:56:11,454 [INFO] Generating tailored resume JSON...
+2025-01-18 10:56:37,770 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "location": "Ottawa, ON",
+  "phone": "(+1)249-875-1733",
+  "email": "cyang017@uottawa.ca",
+  "linkedin": "https://linkedin.com/in/csy2001",
+  "github": "https://github.com/ycs2001",
+  "summary": [
+    "Proficient in programming languages including Java, C++, Python, and SQL, with advanced knowledge of JavaScript frameworks and CSS for web development.",
+    "Experienced in Kubernetes, Dockers, TensorFlow and PyTorch, with expertise in machine learning algorithms and techniques.",
+    "Strong background in cross-modality research and deep learning, with hands-on experience in data analysis and modelling.",
+    "Over 1 year of practical experience in front-end, back-end, and mobile application development.",
+    "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+  ],
+  "job_title": "Co-op Intern, Sales Data Analyst",
+  "company": "Kinaxis",
+  "location": "Ottawa, Canada",
+  "duration": "May 2025 - September 2025",
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed interactive data visualizations for complex datasets using Vue.js and D3.js, creating user-friendly interfaces to support research insights and improve stakeholder usability.",
+        "Managed data storage and retrieval using MySQL, optimizing query performance for efficient data handling and data-driven decision-making.",
+        "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and facilitating data-driven research decisions.",
+        "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis.",
+        "Fine-tuned model parameters to boost computational efficiency and diagnostic performance, achieving significant improvements over traditional methods.",
+        "Collaborated in research, co-authored two conference papers, and presented findings at ICIG 2023 and ChineseCSCW23, with publications in the Lecture Notes in Computer Science series."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes.",
+        "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations.",
+        "User Authentication and Role Management: Developed role-based access for users and admins, enabling staff to manage bookings, availability, and visitor flow."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions.",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+        "Managed asynchronous requests and error handling with Dart\u2019s Future and Stream APIs, ensuring efficient front-end and back-end communication."
+      ]
+    }
+  ],
+  "skills": [
+    "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+    "Containerization and Orchestration: Kubernetes, Docker",
+    "Infrastructure as Code (IaC): Terraform, CloudFormation",
+    "Programming and Scripting: Python, Bash, SQL",
+    "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+    "Monitoring and Optimization: Prometheus, Grafana",
+    "Power BI",
+    "Data Analysis",
+    "Time Management",
+    "Data Governance",
+    "Quantitative Analysis",
+    "Attention to Detail"
+  ],
+  "qualifications": [
+    "At least 1-year studies in Business Intelligence, Statistics, Computer Science, Finance, Sales, Market Research (or equivalent)",
+    "Familiarity with sales and marketing processes is a plus"
+  ],
+  "application_instructions": "To be considered, please apply via https://careers-kinaxis.icims.com/jobs/32542/co-op-intern-sales-data-analyst/job?mode=job&iis=SOURCE&iisn=uOttawa",
+  "education": [
+    {
+      "institution": "University of Ottawa x Carleton University",
+      "degree": "Master of Computer Science (COOP)",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "institution": "Hefei University Of Technology",
+      "degree": "Bachelor of Software Engineering",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications.",
+        "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness.",
+        "Co-authored research findings and presented results at ChineseCSCW 2023, contributing to Springer\u2019s Communications in Computer and Information Science series."
+      ]
+    },
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+        "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+2025-01-18 10:56:37,775 [INFO] Extracted JSON using general braces.
+2025-01-18 10:56:37,775 [ERROR] JSON Decode Error: Expecting ',' delimiter: line 137 column 6 (char 7998)
+2025-01-18 10:56:37,776 [INFO] Attempting to clean the JSON string...
+2025-01-18 10:56:37,778 [ERROR] Failed to parse cleaned JSON: Expecting ',' delimiter: line 6 column 17 (char 139)
+2025-01-18 10:56:37,779 [ERROR] Error generating tailored resume: Unable to parse JSON: Expecting ',' delimiter: line 6 column 17 (char 139)
+2025-01-18 10:59:29,079 [INFO] Google Gemini API configured successfully.
+2025-01-18 10:59:29,079 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 10:59:38,350 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in data analysis, data cleaning, and creating visual reports using Power BI and Microsoft Excel.",
+    "Strong analytical, quantitative and program-solving skills, with a keen eye for detail.",
+    "Experienced in machine learning and data governance tasks, ensuring data accuracy and reliability.",
+    "1+ years of experience in full-stack development, including front-end, back-end, and mobile applications.",
+    "Published academic research at ICIG 2023 and ChineseCSCW23 (Lecture Notes in Computer Science)."
+  ],
+  "skills": [
+    "Data Analysis",
+    "Power BI",
+    "Microsoft Excel",
+    "Analytical Skills",
+    "Quantitative Skills",
+    "Program-Solving Skills",
+    "Data Governance",
+    "Full-Stack Development",
+    "Machine Learning"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "institution": "University of Ottawa",
+      "years": "2021 - 2025",
+      "location": "Ottawa, ON",
+      "details": [
+        "Relevant Coursework: Data Structures, Algorithms, Machine Learning, Database Systems.",
+        "GPA: 3.8/4.0"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Software Development Intern",
+      "company": "Tech Solutions Inc.",
+      "years": "June 2023 - August 2023",
+      "location": "Ottawa, ON",
+      "details": [
+        "Developed and maintained web applications using JavaScript frameworks.",
+        "Implemented CI/CD pipelines using Docker and Kubernetes, reducing deployment times by 30%."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Machine Learning Pipeline",
+      "tech_stack": "Python, TensorFlow, Kubernetes",
+      "years": "2023",
+      "location": "Ottawa, ON",
+      "details": [
+        "Designed and implemented a scalable ML pipeline for predictive analytics."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "link": "https://www.cncf.io/certification/cka/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Learning Approaches for Cross-Modality Research",
+      "link": "https://example.com/publication1"
+    }
+  ]
+}
+```
+2025-01-18 10:59:38,351 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 10:59:38,351 [INFO] Successfully parsed JSON.
+2025-01-18 10:59:38,351 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 10:59:38,360 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 10:59:38,371 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 10:59:38,371 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 10:59:39,316 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 10:59:39,316 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 11:02:37,318 [INFO] Google Gemini API configured successfully.
+2025-01-18 11:02:37,319 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 11:02:53,403 [INFO] AI Model Response:
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in data analysis and data visualization using Power BI, Excel, and Python, with experience in data cleaning, analysis, and reporting.",
+    "Familiar with sales and marketing processes, with a strong understanding of key performance indicators (KPIs) and metrics.",
+    "Excellent analytical, quantitative, and problem-solving skills, with a proven ability to identify trends, patterns, and insights from data.",
+    "Strong attention to detail and excellent collaborative skills, with a positive attitude and a commitment to delivering high-quality work.",
+    "Currently pursuing a Master's degree in Computer Science with a focus on Business Intelligence and Data Analytics, and seeking to apply my knowledge and skills in a Sales Data Analyst role."
+  ],
+  "skills": [
+    "Data Analysis and Visualization: Power BI, Microsoft Excel, Python, Tableau",
+    "Data Management and Cleaning: SQL, Python",
+    "Business Intelligence and Data Analytics",
+    "Sales and Marketing Processes",
+    "Key Performance Indicators (KPIs) and Metrics",
+    "Communication and Presentation Skills"
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science (COOP)",
+      "institution": "University of Ottawa x Carleton University",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "degree": "Bachelor of Software Engineering",
+      "institution": "Hefei University Of Technology",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "experience": [],
+  "projects": [
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications.",
+        "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness.",
+        "Co-authored research findings and presented results at ChineseCSCW 2023, contributing to Springer\u2019s Communications in Computer and Information Science series."
+      ]
+    },
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+        "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+}
+2025-01-18 11:02:53,409 [INFO] Extracted JSON using general braces.
+2025-01-18 11:02:53,411 [INFO] Successfully parsed JSON.
+2025-01-18 11:02:53,411 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 11:02:53,423 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 11:02:53,432 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 11:02:53,432 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 11:02:54,320 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 11:02:54,320 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 11:04:36,935 [INFO] Google Gemini API configured successfully.
+2025-01-18 11:04:36,935 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 11:04:53,838 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in statistical and mathematical reasoning, with advanced knowledge in algebra, geometry, calculus, probability, and inductive/deductive reasoning.",
+    "Experienced in evaluating the quality of AI models, identifying and solving problems to improve their performance.",
+    "Strong background in cross-modality research and deep learning, with hands-on experience in data analysis and modelling."
+  ],
+  "skills": [
+    "Statistics",
+    "Mathematics",
+    "Arithmetic",
+    "Geometry",
+    "Calculus",
+    "Probability",
+    "Inductive/Deductive Reasoning",
+    "Python",
+    "TensorFlow",
+    "Deep Learning"
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science (COOP)",
+      "institution": "University of Ottawa x Carleton University",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "degree": "Bachelor of Software Engineering",
+      "institution": "Hefei University Of Technology",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, Python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed interactive data visualizations for complex datasets using Vue.js and D3.js, creating user-friendly interfaces to support research insights and improve stakeholder usability.",
+        "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis.",
+        "Fine-tuned model parameters to boost computational efficiency and diagnostic performance, achieving significant improvements over traditional methods.",
+        "Co-authored two conference papers, and presented findings at ICIG 2023 and ChineseCSCW23, with publications in the Lecture Notes in Computer Science series."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions.",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+        "Managed asynchronous requests and error handling with Dart\u2019s Future and Stream APIs, ensuring efficient front-end and back-end communication."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+        "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    }
+  ]
+}
+```
+2025-01-18 11:04:53,841 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 11:04:53,842 [INFO] Successfully parsed JSON.
+2025-01-18 11:04:53,842 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 11:04:53,854 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 11:04:53,864 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 11:04:53,866 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 11:04:54,747 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 11:04:54,747 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 11:08:07,932 [INFO] Google Gemini API configured successfully.
+2025-01-18 11:08:07,932 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 11:08:15,576 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Statistician with proficiency in complex mathematical evaluations and model performance analysis.",
+    "Expertise in statistical/mathematical reasoning, applied math, and computer science principles.",
+    "Proven ability to assess AI chatbot outputs and identify areas for improvement.",
+    "Seeking opportunities to contribute statistical expertise to optimize AI models and advance their capabilities."
+  ],
+  "skills": [
+    "Statistical/Mathematical Reasoning",
+    "Applied Math",
+    "Computer Science",
+    "AI Evaluation",
+    "Model Optimization",
+    "Mathematics",
+    "Arithmetic",
+    "Algebra",
+    "Geometry",
+    "Calculus",
+    "Probability",
+    "Inductive/Deductive Reasoning"
+  ],
+  "education": [
+    {
+      "institution": "University of Ottawa x Carleton University",
+      "degree": "Master of Computer Science (COOP)",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "institution": "Hefei University Of Technology",
+      "degree": "Bachelor of Software Engineering",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "publications": []
+}
+```
+2025-01-18 11:08:15,578 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 11:08:15,578 [INFO] Successfully parsed JSON.
+2025-01-18 11:08:15,579 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 11:08:15,586 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 11:08:15,596 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 11:08:15,597 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 11:08:25,177 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 11:08:25,178 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 11:08:40,577 [INFO] Google Gemini API configured successfully.
+2025-01-18 11:08:40,577 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 11:08:47,815 [INFO] AI Model Response:
+``` JSON
+{
+    "name": "Chongshen Yang",
+    "contact": {
+        "location": "Ottawa, ON",
+        "phone": "(+1)249-875-1733",
+        "email": "cyang017@uottawa.ca",
+        "linkedin": "https://linkedin.com/in/csy2001",
+        "github": "https://github.com/ycs2001"
+    },
+    "summary": [
+        "Advanced statistical and mathematical expertise, with deep knowledge in statistical reasoning and problem-solving techniques.",
+        "Proven ability to evaluate the progress and accuracy of AI chatbots, and to analyze and improve their logic.",
+        "Skilled in probability, statistics, multivariate statistics, and machine learning algorithms.",
+        "Proficient in English language, with excellent communication and presentation skills."
+    ],
+    "skills": [
+        "Applied Mathematics",
+        "Computer Science",
+        "Mathematical Reasoning",
+        "Statistical Analysis",
+        "Problem-Solving",
+        "Probability Theory",
+        "Multivariate Statistics",
+        "Machine Learning Algorithms",
+        "Communication",
+        "Presentation Skills"
+    ],
+    "education": [
+        {
+            "degree": "Master of Computer Science (COOP)",
+            "institution": "University of Ottawa x Carleton University",
+            "years": "Aug. 2024 -- Present",
+            "location": "Ottawa, ON",
+            "details": [
+                "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+            ]
+        },
+        {
+            "degree": "Bachelor of Software Engineering",
+            "institution": "Hefei University of Technology",
+            "years": "Aug. 2020 -- July. 2024",
+            "location": "Hefei, China",
+            "details": [
+                "Achieved A in courses related to statistics, probability, and applied mathematics",
+                "Published two conference papers in research projects"
+            ]
+        }
+    ],
+    "experience": [],
+    "projects": [],
+    "certifications": [],
+    "publications": []
+}
+```
+2025-01-18 11:08:47,817 [INFO] Extracted JSON using general braces.
+2025-01-18 11:08:47,817 [INFO] Successfully parsed JSON.
+2025-01-18 11:08:47,817 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 11:08:47,821 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 11:08:47,837 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 11:08:47,837 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 11:08:48,666 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 11:08:48,666 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 11:09:05,598 [INFO] Google Gemini API configured successfully.
+2025-01-18 11:09:05,598 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 11:09:18,797 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in statistical reasoning, mathematics, and computer science, experienced in evaluating and improving the quality of AI models.",
+    "Strong background in statistics, probability, calculus, geometry, and inductive/deductive reasoning.",
+    "Advanced knowledge of programming and scripting, including Python, Bash, and SQL.",
+    "Demonstrated ability to give AI chatbots diverse and complex mathematics problems and evaluate their outputs.",
+    "Extensive experience in problem-solving and improving the quality of AI models for correctness and performance."
+  ],
+  "skills": [
+    "Statistical Reasoning",
+    "Mathematical Reasoning",
+    "Computer Science",
+    "Statistics",
+    "Probability",
+    "Calculus",
+    "Geometry",
+    "Inductive/Deductive Reasoning",
+    "Python",
+    "Bash",
+    "SQL"
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science (COOP)",
+      "institution": "University of Ottawa x Carleton University",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "degree": "Bachelor of Software Engineering",
+      "institution": "Hefei University Of Technology",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in core computer science courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Utilized deep learning frameworks (TensorFlow) to train and validate models, enhancing retrieval accuracy and efficiency in computer-aided diagnosis.",
+        "Fine-tuned model parameters to boost computational efficiency and diagnostic performance, achieving significant improvements over traditional methods."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    }
+  ]
+}
+```
+2025-01-18 11:09:18,799 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 11:09:18,799 [INFO] Successfully parsed JSON.
+2025-01-18 11:09:18,799 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 11:09:18,800 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 11:09:18,807 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 11:09:18,808 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 11:09:19,815 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 11:09:19,815 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 11:12:33,128 [INFO] Google Gemini API configured successfully.
+2025-01-18 11:12:33,128 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 11:12:56,070 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in statistics, arithmetic, algebra, geometry, calculus, probability, and inductive/ deductive reasoning.",
+    "Experienced in data analysis and modelling, with hands-on experience in working with AI chatbots.",
+    "Strong background in cross-modality research and deep learning.",
+    "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+  ],
+  "skills": [
+    "Statistical/Mathematical Reasoning",
+    "Statistics",
+    "Data Analysis",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science (COOP)",
+      "institution": "University of Ottawa x Carleton University",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "degree": "Bachelor of Software Engineering",
+      "institution": "Hefei University Of Technology",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Collaborated in research, co-authored two conference papers, and presented findings at ICIG 2023 and ChineseCSCW23, with publications in the Lecture Notes in Computer Science series",
+        "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis",
+        "Fine-tuned model parameters to boost computational efficiency and diagnostic performance, achieving significant improvements over traditional methods",
+        "Developed interactive data visualizations for complex datasets using Vue.js and D3.js, creating user-friendly interfaces to support research insights and improve stakeholder usability",
+        "Managed data storage and retrieval using MySQL, optimizing query performance for efficient data handling and data-driven decision-making.",
+        "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and facilitating data-driven research decisions."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes",
+        "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations",
+        "User Authentication and Role Management: Developed role-based access for users and admins, enabling staff to manage bookings, availability, and visitor flow"
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Managed asynchronous requests and error handling with Dart\u2019s Future and Stream APIs, ensuring efficient front-end and back-end communication",
+        "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness",
+        "Co-authored research findings and presented results at ChineseCSCW 2023, contributing to Springer\u2019s Communications in Computer and Information Science series",
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications"
+      ]
+    },
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data",
+        "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+}
+```
+2025-01-18 11:12:56,073 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 11:12:56,074 [INFO] Successfully parsed JSON.
+2025-01-18 11:12:56,074 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 11:12:56,080 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 11:12:56,089 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 11:12:56,089 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 11:12:56,969 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 11:12:56,970 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 11:14:06,998 [INFO] Google Gemini API configured successfully.
+2025-01-18 11:14:06,998 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 11:14:07,197 [ERROR] Error while generating content from AI model: 429 Resource has been exhausted (e.g. check quota).
+2025-01-18 11:14:07,198 [ERROR] Error generating tailored resume JSON: 429 Resource has been exhausted (e.g. check quota).
+2025-01-18 11:14:22,692 [INFO] Google Gemini API configured successfully.
+2025-01-18 11:14:22,692 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 11:14:44,912 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in programming languages including Java, Python, SQL, Bash, and scripting languages, with advanced knowledge of JavaScript frameworks and CSS for web development.",
+    "Experienced in cloud platforms such as Google Cloud Platform (GCP), AWS, and Azure.",
+    "Strong background in data analysis and modelling, with experience in data collection and cleaning, performing basic data analysis, analyzing sales trends, patterns, and performance metrics, and creating visual reports and dashboards using Power BI or Excel.",
+    "Over 1 year of practical experience in front-end, back-end, and mobile application development.",
+    "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+  ],
+  "skills": [
+    "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+    "Containerization and Orchestration: Kubernetes, Docker",
+    "Infrastructure as Code (IaC): Terraform, CloudFormation",
+    "Programming and Scripting: Python, Bash, SQL",
+    "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+    "Monitoring and Optimization: Prometheus, Grafana",
+    "Data visualization tools: D3.js, Power BI",
+    "Data analysis and modelling",
+    "Sales data analysis"
+  ],
+  "education": [
+    {
+      "institution": "University of Ottawa x Carleton University",
+      "degree": "Master of Computer Science (COOP)",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "institution": "Hefei University Of Technology",
+      "degree": "Bachelor of Software Engineering",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed interactive data visualizations for complex datasets using Vue.js and D3.js, creating user-friendly interfaces to support research insights and improve stakeholder usability.",
+        "Managed data storage and retrieval using MySQL, optimizing query performance for efficient data handling and data-driven decision-making.",
+        "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and facilitating data-driven research decisions."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes.",
+        "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions.",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications.",
+        "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness.",
+        "Co-authored research findings and presented results at ChineseCSCW 2023, contributing to Springer\u2019s Communications in Computer and Information Science series."
+      ]
+    },
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+        "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+}
+```
+2025-01-18 11:14:44,919 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 11:14:44,919 [INFO] Successfully parsed JSON.
+2025-01-18 11:14:44,919 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 11:14:44,925 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 11:14:44,932 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 11:14:44,932 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 11:14:45,816 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 11:14:45,816 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 14:24:32,086 [INFO] Google Gemini API configured successfully.
+2025-01-18 14:24:32,086 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 14:24:46,446 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Experienced in statistical and mathematical reasoning, with expertise in inductive/ deductive reasoning.",
+    "Proven ability to evaluate the logic of AI models and identify problems to improve their quality.",
+    "Proficient in statistics, arithmetic, algebra, geometry, calculus, probability, and mathematical modeling.",
+  ],
+  "skills": [
+    "Statistical Analysis",
+    "Mathematical Modeling",
+    "Logic Evaluation",
+    "Problem Solving",
+    "AI Model Analysis"
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science (COOP)",
+      "institution": "University of Ottawa x Carleton University",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "degree": "Bachelor of Software Engineering",
+      "institution": "Hefei University Of Technology",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Advanced coursework in mathematics and statistics, including probability, calculus, and mathematical modeling.",
+        "Developed strong problem-solving and analytical skills through coursework and research projects."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed mathematical models for deep learning algorithms and evaluated their performance.",
+        "Analyzed large datasets using statistical techniques and identified patterns and trends.",
+        "Co-authored research papers and presented findings at international conferences."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Implemented mathematical algorithms to optimize database performance and improve user experience."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Developed mathematical models for mobile applications and evaluated their performance."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Developed a mathematical model to analyze cooperative work patterns and identify areas for improvement.",
+        "Visualized data using D3.js to create interactive dashboards for stakeholders."
+      ]
+    },
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep learning model for medical image analysis and diagnosis.",
+        "Utilized mathematical techniques to improve the accuracy and efficiency of the model."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": []
+}
+```
+2025-01-18 14:24:46,446 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 14:24:46,452 [ERROR] JSON Decode Error: Expecting value: line 14 column 3 (char 591)
+2025-01-18 14:24:46,452 [INFO] Attempting to clean the JSON string...
+2025-01-18 14:24:46,452 [ERROR] Failed to parse cleaned JSON: Expecting ',' delimiter: line 7 column 19 (char 162)
+2025-01-18 14:24:46,452 [ERROR] Error generating tailored resume JSON: Unable to parse JSON: Expecting ',' delimiter: line 7 column 19 (char 162)
+2025-01-18 19:55:51,520 [INFO] Google Gemini API configured successfully.
+2025-01-18 19:55:51,520 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 19:56:14,957 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in statistical/mathematical reasoning with a strong background in statistics, arithmetic, algebra, geometry, calculus, probability, and inductive/ deductive reasoning.",
+    "Experienced in data analysis and modeling, with expertise in machine learning algorithms and techniques.",
+    "Strong understanding of cross-modal research and deep learning, with hands-on experience in training and evaluating AI models.",
+    "Over 1 year of practical experience in front-end, back-end, and mobile application development.",
+    "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+  ],
+  "skills": [
+    "Detail-oriented",
+    "Fluency in English (native or bilingual level)",
+    "Proficient in statistics, arithmetic, algebra, geometry, calculus, probability, and inductive/ deductive reasoning"
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science (COOP)",
+      "institution": "University of Ottawa x Carleton University",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "degree": "Bachelor of Software Engineering",
+      "institution": "Hefei University Of Technology",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed interactive data visualizations for complex datasets using Vue.js and D3.js, creating user-friendly interfaces to support research insights and improve stakeholder usability.",
+        "Managed data storage and retrieval using MySQL, optimizing query performance for efficient data handling and data-driven decision-making.",
+        "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and facilitating data-driven research decisions.",
+        "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis.",
+        "Fine-tuned model parameters to boost computational efficiency and diagnostic performance, achieving significant improvements over traditional methods.",
+        "Collaborated in research, co-authored two conference papers, and presented findings at ICIG 2023 and ChineseCSCW23, with publications in the Lecture Notes in Computer Science series."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes.",
+        "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations.",
+        "User Authentication and Role Management: Developed role-based access for users and admins, enabling staff to manage bookings, availability, and visitor flow."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions.",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+        "Managed asynchronous requests and error handling with Dart\u2019s Future and Stream APIs, ensuring efficient front-end and back-end communication."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "location": null,
+      "details": [
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications.",
+        "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness.",
+        "Co-authored research findings and presented results at ChineseCSCW 2023, contributing to Springer\u2019s Communications in Computer and Information Science series."
+      ]
+    },
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "location": null,
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+        "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+}
+```
+2025-01-18 19:56:14,963 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 19:56:14,964 [INFO] Successfully parsed JSON.
+2025-01-18 19:56:14,965 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 19:56:15,001 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 19:56:15,035 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 19:56:15,036 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 19:56:16,372 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 19:56:16,372 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 21:53:36,460 [INFO] Google Gemini API configured successfully.
+2025-01-18 21:53:36,460 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 21:53:57,625 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in programming languages including C/C++, Python, JavaScript, and Bash, with solid experience in front-end and back-end development.",
+    "Experienced in Linux OS, shell scripting, Agile development processes, and CI/CD pipelines, with hands-on experience in Continuous Integration - Continuous Development environments.",
+    "Strong analytical and problem-solving skills, with a passion for creative and innovative solutions in software development and testing.",
+    "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+  ],
+  "skills": [
+    "Programming and Scripting: Python, Bash, C/C++",
+    "Software Development: Spring Boot, Flask",
+    "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+    "Data Analysis: MySQL, D3.js",
+    "Cloud Platforms: Google Cloud Platform (GCP)"
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science (COOP)",
+      "institution": "University of Ottawa x Carleton University",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "degree": "Bachelor of Software Engineering",
+      "institution": "Hefei University Of Technology",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed interactive data visualizations for complex datasets using Vue.js and D3.js, creating user-friendly interfaces to support research insights and improve stakeholder usability.",
+        "Managed data storage and retrieval using MySQL, optimizing query performance for efficient data handling and data-driven decision-making.",
+        "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and facilitating data-driven research decisions."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes.",
+        "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations.",
+        "User Authentication and Role Management: Developed role-based access for users and admins, enabling staff to manage bookings, availability, and visitor flow."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions.",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+        "Managed asynchronous requests and error handling with Dart\u2019s Future and Stream APIs, ensuring efficient front-end and back-end communication."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications.",
+        "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness."
+      ]
+    },
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+}
+```
+2025-01-18 21:53:57,630 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 21:53:57,630 [INFO] Successfully parsed JSON.
+2025-01-18 21:53:57,631 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 21:53:57,640 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 21:53:57,650 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 21:53:57,650 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 21:53:58,680 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 21:53:58,681 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 21:54:51,004 [INFO] Google Gemini API configured successfully.
+2025-01-18 21:54:51,004 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 21:55:16,136 [INFO] AI Model Response:
+```json
+{
+    "name": "Chongshen Yang",
+    "contact": {
+        "location": "Ottawa, ON",
+        "phone": "(+1)249-875-1733",
+        "email": "cyang017@uottawa.ca",
+        "linkedin": "https://linkedin.com/in/csy2001",
+        "github": "https://github.com/ycs2001"
+    },
+    "summary": [
+        "Proficient in programming languages including Java, C++, Python, and SQL, with advanced knowledge of JavaScript frameworks and CSS for web development.",
+        "Experienced in Kubernetes, Dockers, TensorFlow and PyTorch, with expertise in machine learning algorithms and techniques.",
+        "Strong background in cross-modality research and deep learning, with hands-on experience in data analysis and modelling.",
+        "Over 1 year of practical experience in front-end, back-end, and mobile application development.",
+        "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+    ],
+    "skills": [
+        "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+        "Containerization and Orchestration: Kubernetes, Docker",
+        "Infrastructure as Code (IaC): Terraform, CloudFormation",
+        "Programming and Scripting: Python, Bash, SQL",
+        "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+        "Monitoring and Optimization: Prometheus, Grafana",
+        "Programming: C/C++, PHP, JavaScript, Python, Robot Framework",
+        "Functional programming",
+        "Linux OS and shell scripting",
+        "Agile development process"
+    ],
+    "education": [
+        {
+            "institution": "University of Ottawa x Carleton University",
+            "degree": "Master of Computer Science (COOP)",
+            "years": "Aug. 2024 -- Present",
+            "location": "Ottawa, ON",
+            "details": [
+                "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+            ]
+        },
+        {
+            "institution": "Hefei University Of Technology",
+            "degree": "Bachelor of Software Engineering",
+            "years": "Aug. 2020 -- July. 2024",
+            "location": "Hefei, China",
+            "details": [
+                "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+                "Published two conference papers in research projects"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "position": "Research Assistant",
+            "company": "Intelligent Interconnected Systems Laboratory (Hefei University of Technology)",
+            "years": "June 2022 -- July 2024",
+            "location": "Hefei, China",
+            "details": [
+                "Developed interactive data visualizations for complex datasets using Vue.js and D3.js, creating user-friendly interfaces to support research insights and improve stakeholder usability.",
+                "Managed data storage and retrieval using MySQL, optimizing query performance for efficient data handling and data-driven decision-making.",
+                "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and facilitating data-driven research decisions.",
+                "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis.",
+                "Fine-tuned model parameters to boost computational efficiency and diagnostic performance, achieving significant improvements over traditional methods.",
+                "Collaborated in research, co-authored two conference papers, and presented findings at ICIG 2023 and ChineseCSCW23, with publications in the Lecture Notes in Computer Science series."
+            ]
+        },
+        {
+            "position": "Software development intern",
+            "company": "Motorola Solutions",
+            "years": "TBD",
+            "location": "TBD",
+            "details": [
+                "Will analyze data, develop software intended towards software product testing, testing and maintaining Continuous Integration - Continuous Development environments."
+            ]
+        },
+        {
+            "position": "Full-stack Developer Intern",
+            "company": "Guochuang Software Co.,Ltd.",
+            "years": "Feb. 2022 - Aug. 2022",
+            "location": "Hefei, China",
+            "details": [
+                "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes.",
+                "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations.",
+                "User Authentication and Role Management: Developed role-based access for users and admins, enabling staff to manage bookings, availability, and visitor flow."
+            ]
+        },
+        {
+            "position": "Mobile Application Developer Intern",
+            "company": "Guochuang Software Co.,Ltd.",
+            "years": "April. 2023 - Aug. 2023",
+            "location": "Hefei, China",
+            "details": [
+                "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions.",
+                "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+                "Managed asynchronous requests and error handling with Dart\u2019s Future and Stream APIs, ensuring efficient front-end and back-end communication."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Cooperative Work Visualization",
+            "tech_stack": "Python, Flask, D3.js, MySQL",
+            "years": "Sept. 2022 -- June. 2023",
+            "details": [
+                "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications.",
+                "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness.",
+                "Co-authored research findings and presented results at ChineseCSCW 2023, contributing to Springer\u2019s Communications in Computer and Information Science series."
+            ]
+        },
+        {
+            "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+            "tech_stack": "Python, Tensorflow, Latex, Git",
+            "years": "May. 2022 -- Feb. 2023",
+            "details": [
+                "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+                "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+                "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+            "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+        },
+        {
+            "name": "Machine Learning (Stanford University)",
+            "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+        },
+        {
+            "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+            "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+        }
+    ]
+}
+```
+2025-01-18 21:55:16,141 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 21:55:16,141 [INFO] Successfully parsed JSON.
+2025-01-18 21:55:16,142 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 21:55:16,150 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 21:55:16,157 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 21:55:16,157 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 21:55:17,056 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 21:55:17,056 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 21:55:42,824 [INFO] Google Gemini API configured successfully.
+2025-01-18 21:55:42,824 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 21:56:03,227 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Strong programming, web development, and data analysis skills, with a focus on machine learning algorithms and computer-aided diagnosis.",
+    "Experience in software development and design, including front-end, back-end, and mobile application development.",
+    "Expertise in deep learning frameworks, cloud platforms, containerization, and DevOps/MLOps tools.",
+    "Co-authored and presented research in machine learning applications, with publications in leading academic journals."
+  ],
+  "skills": [
+    "Python, C/C++, JavaScript, PHP, Robot Framework",
+    "TensorFlow, PyTorch",
+    "Kubernetes, Docker",
+    "Google Cloud Platform (GCP), AWS, Azure",
+    "Terraform, CloudFormation",
+    "Jenkins, Git, CI/CD pipelines",
+    "Prometheus, Grafana",
+    "Linux OS, shell scripting",
+    "Functional programming"
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science (COOP)",
+      "institution": "University of Ottawa x Carleton University",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "degree": "Bachelor of Software Engineering",
+      "institution": "Hefei University Of Technology",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed deep discriminative hashing models for cross-modal medical image and text data retrieval, enhancing diagnostic accuracy in computer-aided diagnosis.",
+        "Utilized machine learning techniques to analyze data and improve model performance.",
+        "Collaborated in research, co-authored two conference papers, and presented findings at ICIG 2023 and ChineseCSCW23, with publications in the Lecture Notes in Computer Science series."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Developed full-stack web application using Spring Boot, Vue.js, and MySQL for managing appointments and user authentication.",
+        "Designed and implemented responsive user interfaces for seamless user experience."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Developed mobile applications using Flutter for user interaction and Firebase for data management.",
+        "Integrated RESTful APIs for efficient communication between front-end and back-end."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+        "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+      ]
+    },
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications.",
+        "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness.",
+        "Co-authored research findings and presented results at ChineseCSCW 2023, contributing to Springer\u2019s Communications in Computer and Information Science series."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+}
+```
+2025-01-18 21:56:03,230 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 21:56:03,230 [INFO] Successfully parsed JSON.
+2025-01-18 21:56:03,230 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 21:56:03,239 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 21:56:03,246 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 21:56:03,247 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 21:56:04,107 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 21:56:04,107 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 21:56:32,593 [INFO] Google Gemini API configured successfully.
+2025-01-18 21:56:32,593 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 21:56:55,377 [INFO] AI Model Response:
+```json
+{
+  "name": "Chongshen Yang",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone": "(+1)249-875-1733",
+    "email": "cyang017@uottawa.ca",
+    "linkedin": "https://linkedin.com/in/csy2001",
+    "github": "https://github.com/ycs2001"
+  },
+  "summary": [
+    "Proficient in programming languages including Java, C++, Python, and SQL, with advanced knowledge of JavaScript frameworks and CSS for web development.",
+    "Experienced in Kubernetes, Dockers, TensorFlow and PyTorch, with expertise in machine learning algorithms and techniques.",
+    "Strong background in cross-modality research and deep learning, with hands-on experience in data analysis and modelling.",
+    "Over 1 year of practical experience in software development and testing, including experience in Agile development processes.",
+    "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+  ],
+  "skills": [
+    "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+    "Containerization and Orchestration: Kubernetes, Docker",
+    "Infrastructure as Code (IaC): Terraform, CloudFormation",
+    "Programming and Scripting: Python, Bash, SQL",
+    "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+    "Monitoring and Optimization: Prometheus, Grafana",
+    "Testing frameworks: Robot Framework"
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science (COOP)",
+      "institution": "University of Ottawa x Carleton University",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "degree": "Bachelor of Software Engineering",
+      "institution": "Hefei University Of Technology",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis.",
+        "Fine-tuned model parameters to boost computational efficiency and diagnostic performance, achieving significant improvements over traditional methods.",
+        "Collaborated in research, co-authored two conference papers, and presented findings at ICIG 2023 and ChineseCSCW23, with publications in the Lecture Notes in Computer Science series."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes.",
+        "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations.",
+        "User Authentication and Role Management: Developed role-based access for users and admins, enabling staff to manage bookings, availability, and visitor flow."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter\u2019s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions.",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+        "Managed asynchronous requests and error handling with Dart\u2019s Future and Stream APIs, ensuring efficient front-end and back-end communication."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+        "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+      ]
+    },
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications.",
+        "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness.",
+        "Co-authored research findings and presented results at ChineseCSCW 2023, contributing to Springer\u2019s Communications in Computer and Information Science series."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+}
+```
+2025-01-18 21:56:55,381 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 21:56:55,381 [INFO] Successfully parsed JSON.
+2025-01-18 21:56:55,381 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 21:56:55,391 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 21:56:55,399 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 21:56:55,399 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 21:56:56,255 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 21:56:56,255 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 22:20:11,390 [INFO] Google Gemini API configured successfully.
+2025-01-18 22:20:11,392 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 22:20:21,567 [INFO] AI Model Response:
+```json
+{
+  "name": "Mahsa Paknejad",
+  "contact": {
+    "location": null,
+    "phone": "+1 ( 613 ) 204 - 9950",
+    "email": "mahsa.paknejad@uottawa.ca",
+    "linkedin": "inmahsa - paknejad",
+    "github": "mahsaapk"
+  },
+  "summary": [
+    "Mobile Engineer with concentration in applying artificial intelligence (AI)",
+    "University of Ottawa, Ottawa, Canada (Expected April 2025)",
+    "GPA: 9.6/10",
+    "Conducted research focused on autonomous, reliable, scalable, and secure resource management",
+    "Optimized vehicular task offloading in mobile edge computing by employing a custom online dynamic"
+  ],
+  "skills": [
+    "PyTorch",
+    "TensorFlow",
+    "scikit-learn",
+    "NumPy",
+    "Pandas",
+    "C Programming",
+    "Git",
+    "Linux",
+    "Simulation of Urban Mobility (SUMO)"
+  ],
+  "education": [
+    {
+      "degree": "Master of Applied Science in Electrical and Computer Engineering",
+      "institution": "University of Ottawa, Ottawa, Canada",
+      "years": "September 2023 - April 2025 (Expected)",
+      "location": null,
+      "details": [
+        "GPA: 9.6/10"
+      ]
+    },
+    {
+      "degree": "Bachelor of Engineering in Computer Engineering with Honor",
+      "institution": "Azad University, Tehran, Iran",
+      "years": "September 2018 - February 2022",
+      "location": null,
+      "details": [
+        "GPA: 18.57/20"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Digital Content and Communication Chair",
+      "company": "The IEEE WF-IoT 2024 Website",
+      "years": "August 2024 - November 2024",
+      "location": null,
+      "details": [
+        "Managed and updated the IEEE 10th World Forum on Internet of Things website using HTML and CSS"
+      ]
+    },
+    {
+      "position": "Traversal Program Member",
+      "company": "Smart Connect Vehicle Innovation Centre",
+      "years": "June 2024 - Present",
+      "location": null,
+      "details": [
+        "Received training in hard and soft skills, participated in hackathons, internships, international exchanges, and conferences"
+      ]
+    },
+    {
+      "position": "Teach Assistant",
+      "company": "University of Ottawa",
+      "years": "- Fall 2023/2024 & Winter 2024/2025",
+      "location": null,
+      "details": [
+        "Led lab sessions aimed at improving students' practical C and Python programming skills in engineering computation and introduction to compute courses"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "publications": []
+}
+```
+2025-01-18 22:20:21,569 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 22:20:21,569 [INFO] Successfully parsed JSON.
+2025-01-18 22:20:21,569 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 22:20:21,574 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 22:20:21,584 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 22:20:21,584 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 22:20:22,453 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 22:20:22,453 [INFO] ✅ Resume generation process completed successfully.
+2025-01-18 22:22:35,809 [INFO] Google Gemini API configured successfully.
+2025-01-18 22:22:35,809 [INFO] Generating tailored resume JSON from applicant data and job description...
+2025-01-18 22:22:44,647 [INFO] AI Model Response:
+```json
+{
+  "name": "Mahsa Paknejad",
+  "contact": {
+    "location": "",
+    "phone": "1 (613) 204-9950",
+    "email": "mahsa.paknejad@uottawa.ca",
+    "linkedin": "inmahsa-paknejad",
+    "github": "mahsaapk"
+  },
+  "summary": [
+    "With concentration in applied artificial intelligence (AI), GPA: 9.6/10",
+    "University of Ottawa, Ottawa, Canada, September 2023 - April 2025 (Expected)",
+    "Conduct research focused on autonomous, reliable, scalable, and secure resource management."
+  ],
+  "skills": [
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn",
+    "NumPy",
+    "Pandas",
+    "C programming",
+    "Git",
+    "Linux",
+    "Robot Framework"
+  ],
+  "education": [
+    {
+      "degree": "Master of Applied Science in Electrical and Computer Engineering",
+      "institution": "University of Ottawa, Ottawa, Canada",
+      "years": "September 2023 - April 2025",
+      "location": "",
+      "details": [
+        "GPA: 9.6/10"
+      ]
+    },
+    {
+      "degree": "Bachelor of Engineering in Computer Engineering with Honors",
+      "institution": "Azad University, Tehran, Iran",
+      "years": "September 2018 - February 2022",
+      "location": "",
+      "details": [
+        "GPA: 18.57/20"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Digital Content and Communication Chair",
+      "company": "IEEE WF-IoT 2024 Website",
+      "years": "August 2024 - November 2024",
+      "location": "",
+      "details": [
+        "Managed updates to the IEEE 10th World Forum on the Internet of Things website using HTML and CSS."
+      ]
+    },
+    {
+      "position": "Teaching Assistant",
+      "company": "University of Ottawa",
+      "years": "Fall 2023/2024 & Winter 2024/2025",
+      "location": "",
+      "details": [
+        "Led lab sessions aimed at improving students' practical C and Python programming skills in engineering courses.",
+        "Taught computation courses and introductory computer science classes."
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "publications": []
+}
+```
+2025-01-18 22:22:44,649 [INFO] Extracted JSON using ```json``` block.
+2025-01-18 22:22:44,649 [INFO] Successfully parsed JSON.
+2025-01-18 22:22:44,649 [INFO] Escaping LaTeX special characters in resume data...
+2025-01-18 22:22:44,656 [INFO] Rendering LaTeX template with escaped resume data...
+2025-01-18 22:22:44,667 [INFO] Writing rendered LaTeX to generated_resume.tex...
+2025-01-18 22:22:44,667 [INFO] Compiling generated_resume.tex to PDF...
+2025-01-18 22:22:45,519 [INFO] ✅ PDF Resume Successfully Generated!
+2025-01-18 22:22:45,519 [INFO] ✅ Resume generation process completed successfully.

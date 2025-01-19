@@ -1,0 +1,124 @@
+{
+  "name": "Chongshen Yang",
+  "location": "Ottawa, ON",
+  "phone": "(+1)249-875-1733",
+  "email": "cyang017@uottawa.ca",
+  "linkedin": "https://linkedin.com/in/csy2001",
+  "github": "https://github.com/ycs2001",
+  "summary": [
+    "Proficient in programming languages including Java, C++, Python, and SQL, with advanced knowledge of JavaScript frameworks and CSS for web development.",
+    "Experienced in Kubernetes, Dockers, TensorFlow and PyTorch, with expertise in machine learning algorithms and techniques.",
+    "Strong background in cross-modality research and deep learning, with hands-on experience in data analysis and modelling.",
+    "Over 1 year of practical experience in front-end, back-end, and mobile application development.",
+    "Co-authored and presented academic research at ICIG 2023 and ChineseCSCW23, with publications featured in Lecture Notes in Computer Science."
+  ],
+  "skills": [
+    "Cloud Platforms: Google Cloud Platform (GCP), AWS, Azure",
+    "Containerization and Orchestration: Kubernetes, Docker",
+    "Infrastructure as Code (IaC): Terraform, CloudFormation",
+    "Programming and Scripting: Python, Bash, SQL",
+    "DevOps/MLOps Tools: Jenkins, Git, CI/CD pipelines",
+    "Monitoring and Optimization: Prometheus, Grafana"
+  ],
+  "education": [
+    {
+      "institution": "University of Ottawa x Carleton University",
+      "degree": "Master of Computer Science (COOP)",
+      "years": "Aug. 2024 -- Present",
+      "location": "Ottawa, ON",
+      "details": [
+        "CO-OP Work terms: 2025 Summer, 2025 Fall, 2026 Winter"
+      ]
+    },
+    {
+      "institution": "Hefei University Of Technology",
+      "degree": "Bachelor of Software Engineering",
+      "years": "Aug. 2020 -- July. 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Achieved A in Java, python programming course, Software Architecture and Design Patterns, Software Development Process and Project Management, Software Testing and Quality Assurance, Cloud Computing and Software Service Undergraduate Machine Learning courses",
+        "Published two conference papers in research projects"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Research Assistant",
+      "company": "Intelligent Interconnected Systems Laboratory, Anhui Province (Hefei University of Technology)",
+      "years": "June 2022 -- July 2024",
+      "location": "Hefei, China",
+      "details": [
+        "Developed interactive data visualizations for complex datasets using Vue.js and D3.js, creating user-friendly interfaces to support research insights and improve stakeholder usability.",
+        "Managed data storage and retrieval using MySQL, optimizing query performance for efficient data handling and data-driven decision-making.",
+        "Utilized Power BI to design interactive dashboards, enabling real-time performance insights and facilitating data-driven research decisions.",
+        "Utilized deep learning frameworks (TensorFlow) to train and validate a Deep Discriminative Hashing model for cross-modal medical image and text data, enhancing retrieval accuracy and efficiency in computer-aided diagnosis.",
+        "Fine-tuned model parameters to boost computational efficiency and diagnostic performance, achieving significant improvements over traditional methods.",
+        "Collaborated in research, co-authored two conference papers, and presented findings at ICIG 2023 and ChineseCSCW23, with publications in the Lecture Notes in Computer Science series."
+      ]
+    },
+    {
+      "position": "Full-stack Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "Feb. 2022 - Aug. 2022",
+      "location": "Hefei, China",
+      "details": [
+        "Backend Development (Spring Boot): Created RESTful APIs for managing appointments, user authentication, and data flow, optimizing database interactions to support high booking volumes.",
+        "Frontend Interface (Vue.js): Built a responsive, user-friendly UI for viewing time slots, booking appointments, and receiving confirmations.",
+        "User Authentication and Role Management: Developed role-based access for users and admins, enabling staff to manage bookings, availability, and visitor flow."
+      ]
+    },
+    {
+      "position": "Mobile Application Developer Intern",
+      "company": "Guochuang Software Co.,Ltd.",
+      "years": "April. 2023 - Aug. 2023",
+      "location": "Hefei, China",
+      "details": [
+        "Designed interactive UIs with Flutter’s widget library, using CustomPainter for complex layouts and AnimationController for smooth transitions.",
+        "Integrated RESTful APIs and Firebase (Firestore, Auth, Cloud Functions) for real-time data synchronization and user authentication.",
+        "Managed asynchronous requests and error handling with Dart’s Future and Stream APIs, ensuring efficient front-end and back-end communication."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cooperative Work Visualization",
+      "tech_stack": "Python, Flask, D3.js, MySQL",
+      "years": "Sept. 2022 -- June. 2023",
+      "details": [
+        "Evaluated the effects of hypergraph-to-graph conversion on visualization techniques for cooperative work, using a multi-metric approach to assess model performance and clarity in social computing applications.",
+        "Developed and implemented graph and hypergraph models to understand cooperative behaviors, analyzing model variations to improve representation accuracy and visualization effectiveness.",
+        "Co-authored research findings and presented results at ChineseCSCW 2023, contributing to Springer’s Communications in Computer and Information Science series."
+      ]
+    },
+    {
+      "title": "Cross-Modal Hashing-Based Computer-Aided Diagnosis",
+      "tech_stack": "Python, Tensorflow, Latex, Git",
+      "years": "May. 2022 -- Feb. 2023",
+      "details": [
+        "Developed a deep discriminative hashing model to enhance cross-modal retrieval accuracy and efficiency, enabling effective diagnosis by linking medical images and textual data.",
+        "Improved diagnostic accuracy in computer-aided diagnosis applications, supporting healthcare professionals by facilitating rapid and reliable data retrieval.",
+        "Co-authored research findings and presented the project at ICIG 2023, published in Lecture Notes in Computer Science, demonstrating innovative applications in medical data analysis."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Deep Learning Coursera Specialization (Andrew Ng DeepLearning.AI)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/Y5EEJ7HZSDH9"
+    },
+    {
+      "name": "Machine Learning (Stanford University)",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/YRW5YVH9E492"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Discriminative Hashing for Cross-Modal Hashing Based Computer-Aided Diagnosis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-46314-3_1#citeas"
+    },
+    {
+      "title": "How Hypergraph-to-Graph Conversion Affects Cooperative Working Visualization: A Multi-metric Evaluation",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-9637-7_15#citeas"
+    }
+  ]
+}
