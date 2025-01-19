@@ -13,6 +13,7 @@
 1. Gadget platform
 * AI Code Assistant
 *  Customized React Hooks
-2. TypeScript - for Full-Stack Development
+2. React
+3. TypeScript - for Full-Stack Development
 3. PostgresSQL database / GraphQL NoSQL database 
 4. Python - AI Modelling (by relying on Google Gemini API as well as some NLP techniques)
