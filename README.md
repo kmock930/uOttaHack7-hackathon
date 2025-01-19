@@ -11,8 +11,8 @@
 ![image](https://github.com/user-attachments/assets/b32badac-9866-4f6e-846b-2ca3f8aa4fad)
 # Tech Stack
 1. Gadget platform
-a. AI Code Assistant
-b. Customized React Hooks
-3. TypeScript - for Full-Stack Development
+* AI Code Assistant
+*  Customized React Hooks
+* TypeScript - for Full-Stack Development
 4. PostgresSQL database / GraphQL NoSQL database 
 5. Python - AI Modelling (by relying on Google Gemini API as well as some NLP techniques)
