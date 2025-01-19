@@ -6,7 +6,7 @@
 ## Step 3: Get a Score (ranging between 0-100) to see how similar your document (resume / cover letter) is with the job's description
 ![image](https://github.com/user-attachments/assets/ad7cbee7-3d66-44c1-bcef-40ca81a3cbd2)
 ### Similarity of a Cover Letter
-![image](https://github.com/user-attachments/assets/3037d1f8-f028-4453-b7c3-128f0a048881)
+![image](https://github.com/user-attachments/assets/8748c1a5-9d4c-4efe-a3b5-615dfd2c9dd4)
 ### Similarity of a Resume
 ![image](https://github.com/user-attachments/assets/b32badac-9866-4f6e-846b-2ca3f8aa4fad)
 # Tech Stack
