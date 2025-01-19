@@ -9,3 +9,10 @@
 ![image](https://github.com/user-attachments/assets/3037d1f8-f028-4453-b7c3-128f0a048881)
 ### Similarity of a Resume
 ![image](https://github.com/user-attachments/assets/928568ab-169c-4479-b582-0e489897f0fa)
+# Tech Stack
+1. Gadget platform
+a. AI Code Assistant
+b. Customized React Hooks
+3. TypeScript - for Full-Stack Development
+4. PostgresSQL database / GraphQL NoSQL database 
+5. Python - AI Modelling (by relying on Google Gemini API as well as some NLP techniques)
