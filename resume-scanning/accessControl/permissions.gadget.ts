@@ -11,6 +11,11 @@ export const permissions: GadgetPermissions = {
   roles: {
     unauthenticated: {
       storageKey: "unauthenticated",
+      models: {
+        JobRoles: {
+          read: true,
+        },
+      },
       actions: {
         listJobRoles: true,
       },
