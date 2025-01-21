@@ -1,4 +1,4 @@
-# Resume/ Cover letter Assistant
+# Resume and Cover Letter Assistant
 
 ### Our Contributors 💫
 <a href="https://github.com/realkris/AI_SPEAKER_PD/graphs/contributors">
