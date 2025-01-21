@@ -10,7 +10,7 @@ def configure_gemini_api():
     """
     Configures the Google Gemini API using the API key from environment variables.
     """
-    api_key = "AIzaSyAHGgwJ83fw1y7rh-yo1vSD_G49eyJsrw8"
+    api_key = "PUT YOUR API KEY HERE"
     if not api_key:
         print("Google Gemini API key not found. Please set the 'GOOGLE_GEMINI_API_KEY' environment variable.")
         raise EnvironmentError("GOOGLE_GEMINI_API_KEY environment variable not set.")
