@@ -1,4 +1,12 @@
 # Resume Scanner Assistant
+
+### Our Contributors 💫
+<a href="https://github.com/realkris/AI_SPEAKER_PD/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kmock930/uOttaHack7-hackathon" />
+</a>
+
+*Made with [contrib.rocks](https://contrib.rocks)*
+
 ## Step 1: Enter the Details of the Job you would like to apply for
 ![image](https://github.com/user-attachments/assets/0fe62c33-aa22-48bc-bd5e-d0b6a9da6f14)
 ## Step 2: Choose the Document that you would like us to create for your application
