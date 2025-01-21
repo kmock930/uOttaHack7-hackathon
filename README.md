@@ -1,4 +1,4 @@
-# Resume Scanner Assistant
+# Resume/ Cover letter Assistant
 
 ### Our Contributors 💫
 <a href="https://github.com/realkris/AI_SPEAKER_PD/graphs/contributors">
