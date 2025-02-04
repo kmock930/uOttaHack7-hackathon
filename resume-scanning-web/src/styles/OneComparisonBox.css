@@ -1,0 +1,24 @@
+.similarity-container {
+    margin-top: 20px;
+}
+
+.similarity-score {
+    margin-top: 20px;
+}
+
+.similarity-bar-container {
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.similarity-bar {
+    height: 10px;
+    background-color: #3f51b5;
+    border-radius: 5px;
+}
+
+.compare-button {
+    margin-top: 20px;
+}

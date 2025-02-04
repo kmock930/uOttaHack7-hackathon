@@ -1,0 +1,42 @@
+.DocumentGeneration {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: blueviolet;
+}
+
+.p {
+    font-size: 1em;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.output-format-form {
+    position: absolute;
+    right: 20px;
+}
+
+.generate-button {
+    margin-top: 20;
+    position: absolute;
+    right: 0;
+}
+
+.button-container {
+    display: flex;
+    justify-content: flex-end;
+}
