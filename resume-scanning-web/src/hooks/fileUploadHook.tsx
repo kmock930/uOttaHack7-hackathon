@@ -2,7 +2,7 @@ import React, { useRef } from 'react';
 import { Button } from '@mui/material';
 
 export default function FileUploadHook({ uploadedFile, setUploadedFile }) {
-    const fileInputRef = useRef(null);
+    const fileInputRef = useRef<HTMLInputElement>(null);
 
     const handleFileUpload = (e) => {
         const file = e.target.files?.[0];
