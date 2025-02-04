@@ -10,7 +10,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <title>QuickHire</title>
         <center>
           <h1>QuickHire</h1>
           <p>Your Job Application Assistant</p>
